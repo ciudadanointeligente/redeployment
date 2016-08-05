@@ -27,34 +27,39 @@ layout: default
             <div class="panel-body">
               <h4 class="bajada">{{ t.tool_description }}</h4>
               <!-- Slider -->
-              <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-                <!-- Indicators -->
-                <ol class="carousel-indicators">
-                  <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                  <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                  <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-                </ol>
+              {% if t.tool_screenshots.size %}
+		          <div id="carousel-example-generic-{{ t.tool_id }}" class="carousel slide" data-ride="carousel">
+		            <!-- Indicators -->
+                {% if t.tool_screenshots.size > 1 %}
+		            <ol class="carousel-indicators">
+                  {% for s in t.tool_screenshots %}
+		              <li data-target="#carousel-example-generic-{{ t.tool_id }}" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.first == true %}active{% endif %}"></li>
+                  {% endfor %}
+		            </ol>
+                {% endif %}
 
-                <!-- Wrapper for slides -->
-                <div class="carousel-inner" role="listbox">
-                  <div class="item active">
-                    <img src="{{ site.baseurl }}/img/pantallazos/agenda-transparencia.png" alt="Agenda Transparencia">
-                  </div>
-                  <div class="item">
-                    <img src="{{ site.baseurl }}/img/pantallazos/civio.png" alt="Agenda Transparencia">
-                  </div>
-                </div>
+		            <!-- Wrapper for slides -->
+		            <div class="carousel-inner" role="listbox">
+                  {% for s in t.tool_screenshots %}
+		              <div class="item {% if forloop.index == 1 %}active{% endif %}">
+		                <img src="{{ site.baseurl }}{{s.url}}" alt="{{t.tool_title}}">
+		              </div>
+                  {% endfor %}
+		            </div>
 
-                <!-- Controls -->
-                <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-                  <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                  <span class="sr-only">Anterior</span>
-                </a>
-                <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-                  <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                  <span class="sr-only">Siguiente</span>
-                </a>
-              </div>
+		            <!-- Controls -->
+                {% if t.tool_screenshots.size > 1 %}
+		            <a class="left carousel-control" href="#carousel-example-generic-{{ t.tool_id }}" role="button" data-slide="prev">
+		              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+		              <span class="sr-only">Anterior</span>
+		            </a>
+		            <a class="right carousel-control" href="#carousel-example-generic-{{ t.tool_id }}" role="button" data-slide="next">
+		              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+		              <span class="sr-only">Siguiente</span>
+		            </a>
+                {% endif %}
+		          </div>
+              {% endif %}
               <!-- Fin slider -->
               <p>{{t.tool_respond_to}}</p>
 

@@ -21,5 +21,9 @@ tool_deploys:
     name: 'Del dicho al hecho - Uruguay'
   - url: '//sabias.cl//'
     name: 'Promesas de Infancia'
+tool_screenshots:
+  - url: '/img/pantallazos/rendicion-1.png'
+  - url: '/img/pantallazos/rendicion-2.png'
+  - url: '/img/pantallazos/rendicion-3.png'
 tool_category: category_03
 ---

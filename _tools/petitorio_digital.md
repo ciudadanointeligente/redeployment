@@ -18,5 +18,7 @@ tool_specs:
 tool_deploys:
   - url: '//agendatransparencia.cl/'
     name: 'Agenda transparencia'
+tool_screenshots:
+  - url: '/img/pantallazos/agenda-transparencia.png'
 tool_category: category_01
 ---

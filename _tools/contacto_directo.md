@@ -16,5 +16,7 @@ tool_specs:
 tool_deploys:
   - url: '//writeit.ciudadanointeligente.org/en/'
     name: 'Write it'
+tool_screenshots:
+  - url: '/img/pantallazos/contactodirecto-1.png'
 tool_category: category_01
 ---

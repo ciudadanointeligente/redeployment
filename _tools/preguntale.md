@@ -16,5 +16,7 @@ tool_deploys:
   - url: '//votainteligente.cl/election/segunda-vuelta-presidencial/ask'
     name: 'Elecciones presidenciales 2013 - segunda vuelta'
 tool_asterisk: "Esta herramienta funciona como un anexo a los Perfiles Transparentes"
+tool_screenshots:
+  - url: '/img/pantallazos/preguntales.png'
 tool_category: category_02
 ---

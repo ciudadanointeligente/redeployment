@@ -21,5 +21,7 @@ tool_deploys:
     name: 'Elecciones en Paraguay'
   - url: '//candidatos.gt/'
     name: 'Elecciones en Guatemala'
+tool_screenshots:
+  - url: '/img/pantallazos/medianaranja.png'
 tool_category: category_02
 ---

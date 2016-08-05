@@ -22,7 +22,4 @@ tool_deploys:
   - url: '//propuestas.civio.es/'
     name: 'Decálogo de propuestas Civio'
 tool_screenshots:
-  - url: '//placehold.it/250.png/000/FFF'
-  - url: '//placehold.it/250.png/BBB/000'
-  - url: '//placehold.it/250.png/CCC/000'
 ---

@@ -18,5 +18,8 @@ tool_deploys:
   - url: '//municipales2012.votainteligente.cl/arica'
     name: 'Municipales 2012'
 tool_asterisk: "Herramienta que sirve de base a una plataforma donde pueda agregarse opcionalmente cualquiera de las siguientes secciones: Media Naranja, Pregúntale y Propuestas Ciudadanas."
+tool_screenshots:
+  - url: '/img/pantallazos/perfiles-1.png'
+  - url: '/img/pantallazos/perfiles-2.png'
 tool_category: category_02
 ---

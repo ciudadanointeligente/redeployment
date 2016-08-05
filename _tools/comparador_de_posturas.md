@@ -18,11 +18,8 @@ tool_specs:
 tool_deploys:
   - url: '//hayacuerdo.ciudadanointeligente.org/'
     name: 'Hay acuerdo'
+tool_screenshots:
+  - url: '/img/pantallazos/comparador-1.png'
+  - url: '/img/pantallazos/comparador-2.png'
 tool_category: category_02
 ---
-
-
-
-
-
-

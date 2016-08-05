@@ -18,5 +18,9 @@ tool_specs:
 tool_deploys:
   - url: '//observatorioanticorrupcion.cl/'
     name: 'Observatorio de avance'
+tool_screenshots:
+  - url: '/img/pantallazos/observatorio-1.png'
+  - url: '/img/pantallazos/observatorio-2.png'
+  - url: '/img/pantallazos/observatorio-3.png'
 tool_category: category_03
 ---

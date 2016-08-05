@@ -21,7 +21,7 @@ tool_deploys:
   - url: ''
     name: ''
 tool_screenshots:
-  - url: '//placehold.it/250.png/000/FFF'
-  - url: '//placehold.it/250.png/BBB/000'
-  - url: '//placehold.it/250.png/CCC/000'
+  - url: '/img/pantallazos/labcivico-1.png'
+  - url: '/img/pantallazos/labcivico-2.png'
+  - url: '/img/pantallazos/labcivico-3.png'
 ---

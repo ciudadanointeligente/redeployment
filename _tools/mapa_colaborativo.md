@@ -18,7 +18,6 @@ tool_deploys:
   - url: '//barriosenaccion.cl/'
     name: 'Barrios en acción'
 tool_screenshots:
-  - url: '//placehold.it/250.png/000/FFF'
-  - url: '//placehold.it/250.png/BBB/000'
-  - url: '//placehold.it/250.png/CCC/000'
+  - url: '/img/pantallazos/mapacolaborativo-1.png'
+  - url: '/img/pantallazos/mapacolaborativo-2.png'
 ---
