@@ -1,0 +1,14 @@
+---
+layout: fb_instant_articles
+---
+<article>
+  <figure class="op-slideshow">
+    {% for image in page.gallery %}
+    <figure>
+      <img src="{{image.img}}" />
+    </figure>
+    {% endfor %}
+
+    <figcaption>{{page.caption}}</figcaption>
+  </figure>
+</article>

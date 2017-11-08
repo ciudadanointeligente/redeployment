@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div id="main" class="container">
+  <div class="row">
+    <h1>{{ page.tag }}</h1>
+    {% assign counter = 1 %}
+      <div class="row">
+    {% for post in site.categories[page.tag] %}
+        {% include post_preview.html %}
+      {% assign cnt = counter|modulo:3 %}
+      {% if cnt == 0 %}</div><div class="row">
+      {% endif %}
+        {% assign counter = counter | plus:1 %}
+    {% endfor %}</div>
+  </div>
+</div>

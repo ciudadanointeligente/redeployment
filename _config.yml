@@ -1,16 +1,28 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: Herramientas Ciudadanas
-email: contacto@ciudadanointeligente.org
+title: Herramientas de Ciudadano Inteligente
+email: info@ciudadanointeligente.org
 description: ""
-baseurl: "//herramientas.ciudadanointeligente.org/" # the subpath of your site, e.g. /blog/
-url: "http://herramientas.ciudadanointeligente.org" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://herramientas.ciudadanointeligente.org/" # the base hostname & protocol for your site
 twitter_username: ciudadanoi
+github_username:  ciudadanointeligente
 
 # Build settings
 markdown: kramdown
-
-analytics_id: 'UA-76464035-1'
-
 collections:
-  tools:
+  category:
     output: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"

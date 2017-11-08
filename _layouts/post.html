@@ -1,15 +1,70 @@
 ---
 layout: default
 ---
-<div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<div id="main" class="container">
+    <article>
+      <div class="text-width">
+        <header>
+          <ul class="list-unstyled list-inline"><li><span class="label label-default">{{ page.category }}</span></li></ul>
+          <h1>{{ page.title }}</h1>
+          <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            {% include post_date.html date=page.date%}.
+            {% capture words %}
+              {{ page.content | number_of_words | minus: 250 }}
+            {% endcapture %}
 
-  <article class="post-content">
-    {{ content }}
+            {% unless words contains "-" %}
+              <i class="fa fa-clock-o"></i> Tiempo estimado de lectura, {{ words | plus: 250 | divided_by: 180 | append: " minuto(s)" }}
+            {% endunless %}
+          </time>
+          <!-- Share -->
+          <span class="pull-right share">
+            <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text={{ page.share_message }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}', 'twitter-share-dialog', 'width=626,height=436');">
+              <i class="fa fa-twitter"></i>
+            </a>
+            <a onclick="window.open('https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}', 'facebook-share-dialog', 'width=626,height=436');">
+              <i class="fa fa-facebook"></i>
+            </a>
+            <a class="visible-xs" href="whatsapp://send?text={{page.share_message}} {{ site.url}}{{ page.url }}" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
+          </span>
+        </p>
+        </header>
+
+        <div class="text-center">
+          {% for image in page.single_image %}
+          <img src="{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
+          <figcaption class="text-light text-right">{{ image.caption }}</figcaption>
+          {% endfor %}
+
+          {% if img_cnt == 0 %}
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{page.video}}" frameborder="0" allowfullscreen></iframe>
+          </div>
+          {% endif %}
+        </div>
+
+        <div class="row">
+          <div class="col-sm-12 col-md-12">
+          </div>
+        </div>
+
+        <div>
+
+          {{ content }}
+
+
+      <div class="fb-comments" data-href="{{ site.url }}{{ page.url}}" data-numposts="8" data-width="100%"></div>
+
+        <address>
+          {% for author in page.authors %}
+            {{author.name}}
+          {% endfor %}
+        </address>
+
+
+        </div>
+      </div>
+    </div>
   </article>
-
 </div>

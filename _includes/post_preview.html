@@ -1,0 +1,29 @@
+<div class="col-sm-4 col-md-3">
+  <div class="panel panel-default">
+    <div class="panel-heading article-news">
+      <!-- {% if post.single_image[0].img %}
+      <img src="{{ post.single_image[0].img }}" alt="{{ destacada.title }}" title="{{ destacada.title }}" class="img-responsive">
+      {% else %}
+      <div class="no-image-header"></div>
+      {% endif %} -->
+    </div>
+    <div class="panel-body">
+      {% if post.categories %}
+        {% for category in post.categories %}
+          {{ category }}
+        <h3>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title | truncate: 45, ""}}
+          </a>
+          <h1 class="sign {{ category | slugify }}">_</h1>
+        </h3>
+        <p>{{ post.intro | truncate: 110, ""}}...</p>
+        <div class="btn-container">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-default {{ category | slugify }}">Ver más</a>
+          <a href="#" class="btn btn-primary bg-{{ category | slugify }}">Me interesa</a>
+        </div>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+</div>

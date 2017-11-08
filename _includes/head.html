@@ -1,35 +1,31 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="fb:pages" content="171895909525608" />
+  <meta property="fb:app_id" content="1505419202884086" />
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:image" content="{% if page.single_image[0].img %}{{ page.single_image[0].img }}{% else %}{{ '/assets/img/main.png' | prepend: site.baseurl | prepend: site.url }}{% endif %}" />
 
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-title" content="Herramientas FCI">
-    <link rel="apple-touch-icon" href="{{ 'img/icons/icon-152x152.png' | prepend: site.baseurl }}">
-    <meta name="msapplication-TileImage" content="{{ 'img/icons/icon-144x144.png' | prepend: site.baseurl }}">
-    <meta name="msapplication-TileColor" content="#28284a">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@ciudadanoi">
+  <meta name="twitter:creator" content="@ciudadanoi">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.title %}{{page.content|strip_html|truncatewords:10}}{% else %}Blog de la Fundación Ciudadano Inteligente{% endif %}">
+  <meta name="twitter:image" content="{% if page.single_image[0].img %}{{page.single_image[0].img}}{% endif %}">
 
-    <link rel="manifest" href="{{ '/manifest.json' | prepend: site.baseurl }}">
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-    <link rel="canonical" href="{{ site.baseurl }}">
-
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="{{ '/bower_components/bootstrap/dist/css/bootstrap.min.css' | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ 'css/reset.css' | prepend: site.baseurl }}"> <!-- CSS reset -->
-    <link rel="stylesheet" href="{{ 'css/style.css' | prepend: site.baseurl }}"> <!-- Resource style -->
-    <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
-
-    <!-- Fonts -->
-    <link href="{{ '/bower_components/karla/karla.css' | prepend: site.baseurl }}" rel='stylesheet' type='text/css'>
-    <link href="{{ '/bower_components/raleway/raleway.css' | prepend: site.baseurl }}" rel='stylesheet' type='text/css'>
-    <script src="//use.fontawesome.com/dd52734646.js"></script>
-
-    <!-- Latest compiled and minified JavaScript -->
-    <script src="{{ '/bower_components/jquery/dist/jquery.min.js' | prepend: site.baseurl }}"></script>
-    <script src="{{ '/bower_components/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl }}"></script>
-
+  <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src="https://use.fontawesome.com/fff7499d34.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Karla:400,700|Poppins:700" rel="stylesheet">
 </head>
