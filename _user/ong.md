@@ -1,4 +1,4 @@
 ---
-tag: Organizaciones de la Sociedad Civil
+tag: "Organizaciones de la Sociedad Civil"
 permalink: "/ong"
 ---

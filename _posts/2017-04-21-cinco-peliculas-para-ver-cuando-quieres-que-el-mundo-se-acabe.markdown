@@ -5,7 +5,9 @@ intro: 'Los últimos acontecimientos políticos te pueden haber quitado las gana
 date: 2017-04-21 12:00:00 -0300
 categories:
 - "Incidencia estrategica"
-user: "Organizaciones de la Sociedad Civil"
+users:
+- "Organizaciones de la Sociedad Civil"
+- "Persona natural"
 highlighted: false
 share_message: "Existen razones para deprimirse, pero películas que nos sacan del hoyo. ¡Míralas aquí!"
 single_image:

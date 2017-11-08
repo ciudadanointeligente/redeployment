@@ -19,7 +19,15 @@ markdown: kramdown
 collections:
   category:
     output: true
+  user:
+    output: true
 defaults:
+  -
+    scope:
+      path: ""
+      type: user
+    values:
+      layout: "user"
   -
     scope:
       path: ""
