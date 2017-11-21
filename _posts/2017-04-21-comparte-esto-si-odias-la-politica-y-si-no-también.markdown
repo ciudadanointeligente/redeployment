@@ -5,6 +5,8 @@ intro: "Y si no la odias, también. Acá te damos cinco argumentos de por qué (
 date:   2017-04-21 12:00:00 -0300
 categories:
   - "Informa de manera efectiva"
+users:
+- "Organizaciones de la Sociedad Civil"
 highlighted: false
 share_message: "Esto no es broma: la política puede ser buena. Acá te contamos por qué"
 single_image:
