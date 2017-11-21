@@ -5,6 +5,7 @@ layout: default
 <div id="main" class="container">
   <div class="row">
     <h1>{{ page.tag }}</h1>
+    <h4>{{ page.description }}</h4>
     {% assign counter = 1 %}
       <div class="row">
     {% for post in site.categories[page.tag] %}
