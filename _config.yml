@@ -34,3 +34,20 @@ defaults:
       type: category
     values:
       layout: "category"
+
+
+# Prose
+prose:
+  ignore:
+    - _category
+    - /_includes
+    - /_layouts
+    - /_sass
+    - /css
+    - .gitignore
+    - CNAME
+    - favicon.ico
+    - LICENSE
+    - README.md
+    - _config.yml
+    - feed.xml
