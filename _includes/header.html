@@ -48,19 +48,6 @@
               {% endfor %}
             </ul>
           </li>
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Usuarios <span class="caret"></span></a>
-            <ul class="dropdown-menu">
-              <li class="tag">
-                <a href="{{site.url}}">Todas</a>
-              </li>
-              {% for user in page.user %}
-              <li class="tag">
-                <a href="{{ user.permalink }}">{{ user.tag }}</a>
-              </li>
-              {% endfor %}
-            </ul>
-          </li>
           <li><a href="#">Sobre nosotros</a></li>
           <li><a href="#">¿Cómo implementarlas?</a></li>
           <li><a href="#">Preguntas Frecuentes</a></li>
