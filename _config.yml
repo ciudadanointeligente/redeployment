@@ -44,6 +44,17 @@ prose:
     - /_sass
     - /css
     - /js
+    - /_includes/fb_head.html
+    - /_includes/footer.html
+    - /_includes/head.html
+    - /_includes/header.html
+    - /_includes/highlighted.html
+    - /_includes/icon-github.html
+    - /_includes/icon-github.svg
+    - /_includes/icon-twitter.html
+    - /_includes/icon-twitter.svg
+    - /_includes/post-date.html
+    - /_includes/post-preview.html
     - .gitignore
     - CNAME
     - favicon.ico
