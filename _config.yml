@@ -40,10 +40,10 @@ defaults:
 prose:
   ignore:
     - _category
-    - /_includes
     - /_layouts
     - /_sass
     - /css
+    - /js
     - .gitignore
     - CNAME
     - favicon.ico
