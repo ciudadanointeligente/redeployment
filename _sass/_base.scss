@@ -222,7 +222,7 @@ input {
 // Hero
 
 .intro {
-  max-width: 840px;
+  max-width: calc(20rem + 50vw);
   margin: 5vw 0;
 }
 
@@ -362,19 +362,6 @@ input {
 }
 
 // Post
-
-.share .fa {
-    background: $magenta;
-    color: white;
-    padding: 1vw;
-    border-radius: 2vw;
-    width: 3vw;
-    text-align: center;
-    margin-top: -10px;
-    &:hover {
-      background: darken($magenta, 10%);
-    }
-}
 
 .text-width .post-meta {
     margin-bottom: 6vw;

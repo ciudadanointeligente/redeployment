@@ -20,11 +20,9 @@ layout: default
           </time>
           <!-- Share -->
           <span class="pull-right share">
-            <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text={{ page.share_message }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}', 'twitter-share-dialog', 'width=626,height=436');">
-              <i class="fa fa-twitter"></i>
-            </a>
-            <a onclick="window.open('https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}', 'facebook-share-dialog', 'width=626,height=436');">
-              <i class="fa fa-facebook"></i>
+            <a href="mailto:herramientas@ciudadanointeligente.org={{page.share_message}}&amp;body={{ site.url}}{{ page.url }}" class="btn btn-primary" title="Me interesa esta herramienta">Me interesa</a>
+            <a href="mailto:?subject={{page.share_message}}&amp;body={{ site.url}}{{ page.url }}" class="btn btn-default" title="Compartir por Email">
+              Compartir por email <i class="fa fa-paper-plane" aria-hidden="true"></i>
             </a>
             <a class="visible-xs" href="whatsapp://send?text={{page.share_message}} {{ site.url}}{{ page.url }}" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
           </span>
