@@ -298,19 +298,36 @@ input {
   }
 }
 
-.blog-box {
-    padding: 1vw 2vw;
-    height: 400px;
-    background: $gray;
-    color: white;
-}
-
 .details {
     font-size: 12px;
     letter-spacing: 1px;
     margin-top: -10px;
 }
 
+#blog {
+    background: #D3326F;
+    padding: 5rem 0 5rem;
+    color: white;
+    margin: 13rem -15px;
+    & a {
+      color: white;
+      text-decoration: underline;
+    }
+}
+
+.blog-box {
+    padding: 1vw 2vw;
+    height: 400px;
+    color: white;
+}
+
+#blog .col-md-4:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+#blog .col-md-4:nth-child(3) {
+  animation-delay: 0.5s;
+}
 
 // Box
 
