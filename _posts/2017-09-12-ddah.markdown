@@ -3,8 +3,7 @@ layout: post
 title:  'Es hora de luchar por la neutralidad web'
 intro: "Si no se mantiene libre y abierta, la Internet va a terminar reproduciendo las desigualdades del mundo offline."
 date:   2017-07-12 14:30:00 -0300
-categories:
- - "Rinde cuentas o fiscaliza"
+category: "Rinde cuentas o fiscaliza"
 highlighted: false
 share_message: "¿Por qué la neutralidad web puede afectarnos? @ciudadanoi nos cuenta"
 single_image:

@@ -381,7 +381,11 @@ input {
 // Post
 
 .text-width .post-meta {
-    margin-bottom: 6vw;
+    margin-bottom: 3vw;
+}
+
+.share {
+  margin-bottom: calc(1rem + 1vw);
 }
 
 .article-img-header {

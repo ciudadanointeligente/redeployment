@@ -6,32 +6,26 @@ layout: default
     <article>
       <div class="text-width">
         <header>
-          <ul class="list-unstyled list-inline"><li><span class="label label-default">{{ page.category }}</span></li></ul>
+          <div class="clearfix">
+          </div>
           <h1>{{ page.title }}</h1>
           <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-            {% include post_date.html date=page.date%}.
-            {% capture words %}
-              {{ page.content | number_of_words | minus: 250 }}
-            {% endcapture %}
-
-            {% unless words contains "-" %}
-              <i class="fa fa-clock-o"></i> Tiempo estimado de lectura, {{ words | plus: 250 | divided_by: 180 | append: " minuto(s)" }}
-            {% endunless %}
+            {{ page.category }} | {% include post_date.html date=page.date%}
           </time>
-          <!-- Share -->
-          <span class="pull-right share">
-            <a href="mailto:herramientas@ciudadanointeligente.org={{page.share_message}}&amp;body={{ site.url}}{{ page.url }}" class="btn btn-primary" title="Me interesa esta herramienta">Me interesa</a>
-            <a href="mailto:?subject={{page.share_message}}&amp;body={{ site.url}}{{ page.url }}" class="btn btn-default" title="Compartir por Email">
-              Compartir por email <i class="fa fa-paper-plane" aria-hidden="true"></i>
-            </a>
-            <a class="visible-xs" href="whatsapp://send?text={{page.share_message}} {{ site.url}}{{ page.url }}" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
-          </span>
         </p>
+        <!-- Share -->
+        <div class="text-right share">
+          <a href="mailto:herramientas@ciudadanointeligente.org={{page.share_message}}&amp;body={{ site.url}}{{ page.url }}" class="btn btn-primary bg-{{ page.category | slugify }}" title="Me interesa esta herramienta">Me interesa</a>
+          <a href="mailto:?subject={{page.share_message}}&amp;body={{ site.url}}{{ page.url }}" class="btn btn-default" title="Compartir por Email">
+            Compartir por email <i class="fa fa-paper-plane" aria-hidden="true"></i>
+          </a>
+          <a class="visible-xs" href="whatsapp://send?text={{page.share_message}} {{ site.url}}{{ page.url }}" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
+        </div>
         </header>
 
         <div class="text-center">
           {% for image in page.single_image %}
-          <img src="{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
+          <img src="{{ site.baseurl }}{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
           <figcaption class="text-light text-right">{{ image.caption }}</figcaption>
           {% endfor %}
 
@@ -50,6 +44,7 @@ layout: default
         <div>
 
           {{ content }}
+          <p class="post-meta">{% for tags in page.tags %}#{{ tags }} {% endfor %}</p>
 
 
       <div class="fb-comments" data-href="{{ site.url }}{{ page.url}}" data-numposts="8" data-width="100%"></div>
