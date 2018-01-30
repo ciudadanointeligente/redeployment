@@ -23,29 +23,15 @@ layout: default
         </div>
         </header>
 
-        <div class="text-center">
-          {% for image in page.single_image %}
-          <img src="{{ site.baseurl }}{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
-          <figcaption class="text-light text-right">{{ image.caption }}</figcaption>
-          {% endfor %}
-
-          {% if img_cnt == 0 %}
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{page.video}}" frameborder="0" allowfullscreen></iframe>
-          </div>
-          {% endif %}
-        </div>
-
-        <div class="row">
-          <div class="col-sm-12 col-md-12">
-          </div>
-        </div>
-
         <div>
-
+          <h4>{{ page.intro }}</h4>
+          {% for image in page.single_image %}
+            <img src="{{ site.baseurl }}{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
+            <figcaption class="text-light text-right">{{ image.caption }}</figcaption>
+          {% endfor %}
           {{ content }}
           <p class="post-meta">{% for tags in page.tags %}#{{ tags }} {% endfor %}</p>
-
+        </div>
 
       <div class="fb-comments" data-href="{{ site.url }}{{ page.url}}" data-numposts="8" data-width="100%"></div>
 
@@ -56,7 +42,6 @@ layout: default
         </address>
 
 
-        </div>
       </div>
     </div>
   </article>

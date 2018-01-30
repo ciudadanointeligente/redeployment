@@ -50,6 +50,10 @@ h3 a {
   color: #3B3B3B;
 }
 
+h4 {
+  line-height: 28px;
+}
+
 a {
   color: $magenta;
   &:hover {
@@ -132,11 +136,11 @@ a {
   background-color: $red;
 }
 
-.incidencia-estrategica {
+.incide-estrategicamente {
   color: $cyan;
 }
 
-.bg-incidencia-estrategica {
+.bg-incide-estrategicamente {
   background-color: $cyan;
 }
 
