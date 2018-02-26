@@ -5,3 +5,17 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base";
+
+
+.page-section {
+  padding: 5rem 0 5rem;
+}
+
+// Contacto
+
+#contact {
+  margin: 0 -15px;
+  & a {
+    color: $cyan;
+  }
+}
