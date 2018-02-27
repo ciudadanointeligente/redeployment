@@ -1,23 +1,33 @@
-<section id="highlighted">
-  <h2 class="text-center">Herramientas destacadas</h2>
-        <div class="carousel slide multi-item-carousel" id="theCarousel">
-          <div class="carousel-inner">
-            <div class="item active">
-              {% assign articulos = site.posts | where:"highlighted",true %}
-              {% for post in articulos limit:6 %}
-                  {% include post_preview.html %}
-                {% assign cnt = counter|modulo:1 %}
-                {% if cnt == 0 %}
-              </div>
-              <div class="item">
-                {% endif %}
-                  {% assign counter = counter | plus:1 %}
-              {% endfor %}
-            </div>
-          </div>
-          <a class="left carousel-control" href="#theCarousel" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
-          <a class="right carousel-control" href="#theCarousel" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="row">
+      {% assign articulos = site.posts | where:"highlighted",true %}
+      {% for post in articulos limit:6 %}
+        {% include post_preview.html %}
+        {% assign cnt = counter|modulo:3 %}
+        {% if cnt == 0 && counter != 6 %}
+        hola
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="row">
+        {% endif %}
+          {% assign counter = counter | plus:1 %}
+      {% endfor %}
         </div>
-</section>
+      </div>
+  </div>
+</div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 <script type="text/javascript" src="{{ site.baseurl }}js/carousel.js"></script>

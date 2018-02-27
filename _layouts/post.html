@@ -21,16 +21,16 @@ layout: default
           </a>
           <a class="visible-xs" href="whatsapp://send?text={{page.share_message}} {{ site.url}}{{ page.url }}" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
         </div>
+        <p>{{ page.intro }}</p>
+        <p class="post-meta">{% for tags in page.tags %}#{{ tags }} {% endfor %}</p>
         </header>
 
         <div>
-          <h4>{{ page.intro }}</h4>
           {% for image in page.single_image %}
             <img src="{{ site.baseurl }}{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
             <figcaption class="text-light text-right">{{ image.caption }}</figcaption>
           {% endfor %}
           {{ content }}
-          <p class="post-meta">{% for tags in page.tags %}#{{ tags }} {% endfor %}</p>
         </div>
 
       <div class="fb-comments" data-href="{{ site.url }}{{ page.url}}" data-numposts="8" data-width="100%"></div>
