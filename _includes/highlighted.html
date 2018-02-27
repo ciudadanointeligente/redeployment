@@ -7,12 +7,16 @@
       {% for post in articulos limit:6 %}
         {% include post_preview.html %}
         {% assign cnt = counter|modulo:3 %}
-        {% if cnt == 0 && counter != 6 %}
-        hola
+        {% if cnt == 0 %}
+          {% if counter == 6 %}
+        </div>
+      </div>
+          {% elsif counter != 6 %}
       </div>
     </div>
     <div class="carousel-item">
       <div class="row">
+          {% endif %}
         {% endif %}
           {% assign counter = counter | plus:1 %}
       {% endfor %}
