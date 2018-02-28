@@ -9,7 +9,7 @@ $gray: #3B3B3B;
 body {
   position: relative;
   min-height: 100%;
-  padding-bottom: 53px;
+  padding-bottom: 120px;
   font-family: 'Karla', sans-serif;
   background: #F8F8F9;
   color: #3B3B3B;
@@ -347,6 +347,7 @@ input {
     padding: 2vw;
     height: 400px;
     position: relative;
+    background: white;
 }
 
 .panel-default {
@@ -412,7 +413,7 @@ footer {
   margin: 20px 0px 0px;
   padding: 20px 0px 0px;
   color: white;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   a {
