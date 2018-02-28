@@ -9,14 +9,9 @@ share_message: "Propuestas Ciudadanas"
 single_image:
   - img: "/img/propuestas-ciudadanas.png"
     caption:
-tags:
-  - OrganizacionesdelaSociedadCivil
-  - InstitucionesPúblicas
-  - MediosdeComunicación
-  - AsociacionesoColectivos
 ---
 
-Plataforma que recoge propuestas elaboradas por la ciudadanía, permitiendo conseguir apoyos masivos para relevar su voz respecto de un problema y llevar esa visión a quienes toman las decisiones. Mira aquí cómo se aplicó en las elecciones presidenciales de Chile 2017. TAGS: Organizaciones de la Sociedad Civil, Asociaciones o Colectivos, Instituciones Públicas, Organismos Internacionales
+Plataforma que recoge propuestas elaboradas por la ciudadanía, permitiendo conseguir apoyos masivos para relevar su voz respecto de un problema y llevar esa visión a quienes toman las decisiones. Mira aquí cómo se aplicó en las elecciones presidenciales de Chile 2017.
 
 ## Ejemplos de su  uso
 Elecciones presidenciales de Chile 2017

@@ -16,13 +16,12 @@ layout: default
         <!-- Share -->
         <div class="text-right share">
           <a href="mailto:herramientas@ciudadanointeligente.org={{page.share_message}}&amp;body={{ site.url}}{{ page.url }}" class="btn btn-primary bg-{{ page.category | slugify }}" title="Me interesa esta herramienta">Me interesa</a>
-          <a href="mailto:?subject={{page.share_message}}&amp;body={{ site.url}}{{ page.url }}" class="btn btn-default" title="Compartir por Email">
+          <a href="mailto:?subject={{page.share_message}}&amp;body={{ site.url}}{{ page.url }}" class="btn btn-secondary" title="Compartir por Email">
             Compartir por email <i class="fa fa-paper-plane" aria-hidden="true"></i>
           </a>
-          <a class="visible-xs" href="whatsapp://send?text={{page.share_message}} {{ site.url}}{{ page.url }}" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
+          <a class="visible-xs btn btn-secondary" href="whatsapp://send?text={{page.share_message}} {{ site.url}}{{ page.url }}" data-action="share/whatsapp/share">Compartir por whatsapp <i class="fa fa-whatsapp"></i></a>
         </div>
         <p>{{ page.intro }}</p>
-        <p class="post-meta">{% for tags in page.tags %}#{{ tags }} {% endfor %}</p>
         </header>
 
         <div>

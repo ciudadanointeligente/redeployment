@@ -6,6 +6,23 @@
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base";
 
+// buttons
+
+.btn-primary {
+  border: none;
+  color: white;
+  &:hover {
+    background-color: $gray;
+  }
+}
+
+.btn-secondary {
+  background: white;
+  border: 1px solid #e9ebee;
+  color: $gray;
+}
+
+// general
 
 .page-section {
   padding: 5rem 0 5rem;

@@ -6,5 +6,4 @@ date:   2017-04-21 12:00:00 -0300
 category: "Incide estrategicamente"
 highlighted: true
 share_message: "Articulación para la incidencia"
-tags: OrganizacionesdelaSociedadCivil, AsociacionesoColectivos, OrganismosInternacionales.
 ---

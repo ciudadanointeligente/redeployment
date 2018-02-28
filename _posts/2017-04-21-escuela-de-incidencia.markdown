@@ -6,12 +6,6 @@ date:   2017-04-21 12:00:00 -0300
 category: "Incide estrategicamente"
 highlighted: true
 share_message: "Escuela de Incidencia"
-tags:
-  - OrganizacionesdelaSociedadCivil
-  - InstitucionesPúblicas
-  - Universidades
-  - LíderesEmergentes
-
 ---
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/pjhujdZiGfg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

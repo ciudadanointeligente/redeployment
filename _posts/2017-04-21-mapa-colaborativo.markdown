@@ -10,11 +10,6 @@ share_message: "Mapa Colaborativo"
 single_image:
   - img: "/img/mapa-colaborativo.png"
     caption:
-tags:
-  - OrganizacionesdelaSociedadCivil
-  - InstitucionesPúblicas
-  - MediosdeComunicación
-  - AsociacionesoColectivos
 ---
 
 ## Ejemplos de su uso

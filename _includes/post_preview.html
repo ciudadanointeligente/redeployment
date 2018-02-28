@@ -19,7 +19,7 @@
         </h3>
         <p>{{ post.intro | truncate: 110, ""}}...</p>
         <div class="btn-container">
-          <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-default {{ category | slugify }}">Ver más</a>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-secondary {{ category | slugify }}">Ver más</a>
           <a href="#" class="btn btn-primary bg-{{ category | slugify }}">Me interesa</a>
         </div>
         {% endfor %}

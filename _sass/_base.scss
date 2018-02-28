@@ -375,14 +375,6 @@ input {
   }
 }
 
-.btn-primary {
-  border: none;
-  color: white;
-  &:hover {
-    background-color: $gray;
-  }
-}
-
 // Post
 
 .text-width .post-meta {
@@ -411,7 +403,7 @@ figcaption {
 footer {
   background-color: $blue;
   margin: 20px 0px 0px;
-  padding: 20px 0px 0px;
+  padding: calc(2rem + 1vw) 0px calc(1rem + 0.5vw);
   color: white;
   position: fixed;
   bottom: 0;
