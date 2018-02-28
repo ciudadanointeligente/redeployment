@@ -13,6 +13,8 @@ share_message: "Planificación Estrategica"
 
 Estratega es una herramienta que ayuda a una organización a planificar y dar seguimiento a un proceso de incidencia, buscando aumentar su impacto en la solución de problemas públicos a mediano plazo.
 
+Más info: [estratega.io](http://estratega.io/)
+
 ## Testimonios
 
 <div class="row mb-30 mt-30">
@@ -53,5 +55,3 @@ Estratega es una herramienta que ayuda a una organización a planificar y dar se
     </p>
   </div>
 </div>
-
-## Más info: [Proyecto Estratega](http://estratega.io/)
