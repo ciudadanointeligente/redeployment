@@ -13,3 +13,7 @@ single_image:
 ---
 
 Ejemplos de su uso:  Partidos políticos chilenos en [partidospublicos.cl](https://partidospublicos.cl/)
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/CZ-Y-1rMwBU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/MfgPu_X4f1k?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
