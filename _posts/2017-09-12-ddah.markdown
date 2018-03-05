@@ -4,7 +4,7 @@ title:  'Rendición de cuentas'
 intro: "¿Cómo sabemos que nuestros representantes cumplen efectivamente lo que prometen? Nuestra plataforma de rendición de cuentas muestra de forma amigable el porcentaje de cumplimiento de un proyecto, ya sea para rendir cuentas de manera voluntaria o para exponer el avance de las promesas de otros."
 date:   2017-07-12 14:30:00 -0300
 category: "Rinde cuentas o fiscaliza"
-highlighted: true
+highlighted: false
 share_message: "Rendición de cuentas"
 single_image:
   - img: "/img/rendicion-de-cuentas.png"

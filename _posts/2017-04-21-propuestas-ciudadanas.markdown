@@ -4,7 +4,7 @@ title:  "Propuestas Ciudadanas"
 intro: '¿No sabes cómo llegar a los tomadores de decisión? ¿Tienes una excelente idea y la quieres compartir para que más gente se sume? ¿Crees que la construcción de políticas públicas se puede hacer de forma más colaborativa?'
 date:   2017-04-21 12:00:00 -0300
 category: "Participacion Ciudadana"
-highlighted: true
+highlighted: false
 share_message: "Propuestas Ciudadanas"
 single_image:
   - img: "/img/propuestas-ciudadanas.png"

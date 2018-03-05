@@ -1,5 +1,5 @@
 ---
 tag: Participacion Ciudadana
 permalink: "/participacion"
-description: ¡Pasa de la teoría a la práctica! Herramientas para concretar proyectos, desafíos, sueños e impulsar iniciativas ciudadanas.
+description: Sabemos que lograr la participación ciudadana conlleva desafíos. Hagámosla real! Pasa de la teoría a la práctica con herramientas que te permitan concretar proyectos, sueños e impulsar iniciativas ciudadanas.
 ---

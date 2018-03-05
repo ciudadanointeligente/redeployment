@@ -4,7 +4,7 @@ title:  "Votainteligente"
 intro: '¿Crees que en las próximas elecciones se podría lograr un proceso más democrático? ¿Quieres llevar la voz de los votantes a quienes buscan gobernar?  ¿Buscas que la ciudadanía se informe, proponga y sea parte del debate?'
 date:   2017-04-21 12:00:00 -0300
 category: "Participacion Ciudadana"
-highlighted: true
+highlighted: false
 share_message: "Votainteligente"
 single_image:
   - img: "/img/perfiles.png"

@@ -1,5 +1,5 @@
 ---
 tag: Incide estrategicamente
 permalink: "/incidencia"
-description: Te entregamos herramientas para cambiar el mundo. Crea, impulsa y concreta tus objetivos para el fomento de líderes emergentes, organizaciones y colectivos.
+description: No siempre es fácil para las organizaciones impactar en políticas públicas. Acá te entregamos herramientas para conseguirlo. Crea, impulsa y concreta tus objetivos con metodologías creadas especialmente para líderes emergentes, organizaciones y colectivos.
 ---
