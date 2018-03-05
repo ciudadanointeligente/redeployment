@@ -1,12 +1,12 @@
 ---
 layout: page
 ---
-# Preguntas Frecuentes
+# <span class="span-white">Preguntas Frecuentes</span>
 
-## 1. ¿Qué servicios ofrecen?
-Ciudadano Inteligente ofrece herramientas para fortalecer a organizaciones de la sociedad civil, activistas, colectivos y a la ciudadanía en general. También  ofrecemos herramientas para que gobiernos centrales, locales y empresas puedan vincularse mejor con la ciudadanía. Además, ponemos nuestras herramientas a disposición de organismos internacionales que contribuyan a fortalecer la sociedad civil.
+<h2><span class="span-white">¿Qué servicios ofrecen?</span></h2>
+<span class="span-white">Ciudadano Inteligente ofrece herramientas para fortalecer a organizaciones de la sociedad civil, activistas, colectivos y a la ciudadanía en general. También  ofrecemos herramientas para que gobiernos centrales, locales y empresas puedan vincularse mejor con la ciudadanía. Además, ponemos nuestras herramientas a disposición de organismos internacionales que contribuyan a fortalecer la sociedad civil.</span>
 
-Ciudadano Inteligente no solo ofrece herramientas digitales, cuyo es código abierto, y por lo tanto pueden replicarse de manera gratuita. También ofrecemos todo el proceso que acompaña la implementación de un proyecto: diseño de la iniciativa, asesoría metodológica, desarrollo técnico y programación, experiencia de usuario, capacitaciones, diseño gráfico, entre otros. Esto hace a nuestras herramientas adaptables a distintas necesidades y contextos.
+<span class="span-white">Ciudadano Inteligente no solo ofrece herramientas digitales, cuyo es código abierto, y por lo tanto pueden replicarse de manera gratuita. También ofrecemos todo el proceso que acompaña la implementación de un proyecto: diseño de la iniciativa, asesoría metodológica, desarrollo técnico y programación, experiencia de usuario, capacitaciones, diseño gráfico, entre otros. Esto hace a nuestras herramientas adaptables a distintas necesidades y contextos.</span>
 
 ## 2. ¿En qué países se pueden aplicar estas herramientas?
 

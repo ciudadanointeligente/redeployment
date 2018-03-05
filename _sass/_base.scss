@@ -44,8 +44,8 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 3vw;
-  line-height: 4vw;
+  font-size: calc(2rem + 1vw);
+  line-height: 5.2vw;
 }
 
 h2 {
@@ -64,7 +64,7 @@ h3 a {
 }
 
 h4 {
-  line-height: 28px;
+  line-height: 32px;
 }
 
 a {
@@ -249,7 +249,7 @@ input {
 
 .intro {
   max-width: calc(20rem + 50vw);
-  margin: 14vw 0 100px;
+  margin: 13vw 0 90px;
 }
 
 .hero img {
