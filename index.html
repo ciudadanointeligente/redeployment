@@ -7,7 +7,7 @@ layout: default
     <h2><span class="span-white">Aquí te contamos cómo</span></h2>
   </div>
   {% include menu.html %}
-      {% assign destacadas = site.posts | where:"highlighted",true %}
+  {% assign destacadas = site.posts | where:"highlighted",true %}
   {% assign counter = 1 %}
 
   {% include blogfeed.html %}

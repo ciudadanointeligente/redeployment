@@ -45,7 +45,7 @@ h1, h2, h3 {
 
 h1 {
   font-size: calc(2rem + 1vw);
-  line-height: 5.2vw;
+  line-height: calc(2rem + 2vw);
 }
 
 h2 {
@@ -269,6 +269,7 @@ input {
 .menu-box {
     padding: 1vw 2vw;
     height: 400px;
+  margin-bottom: 1rem;
 }
 
 .list-unstyled {
@@ -331,7 +332,6 @@ input {
 }
 
 .blog-box {
-    padding: 1vw 2vw;
     height: 400px;
     color: white;
 }
