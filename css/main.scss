@@ -24,6 +24,23 @@
 
 // general
 
+body {
+  position: relative;
+  min-height: 100%;
+  padding-bottom: 170px;
+  font-family: 'Karla', sans-serif;
+  background: #F8F8F9;
+  color: #3B3B3B;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media (min-width: 576px) {
+  body {
+    padding-bottom: 110px;
+  }
+}
+
 .page-section {
   padding: 5rem 0 5rem;
 }
@@ -44,17 +61,92 @@ span.span-white {
   background: white;
 }
 
+// Header text
+
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-size: calc(1.5rem + 1.5vw);
+  line-height: calc(2.3rem + 2.3vw);
+}
+
+h2 {
+    font-size: calc(1.2vw + 1.2rem);
+    line-height: calc(1.4vw + 1.4rem);
+}
+
+h3 {
+  font-size: calc(0.8vw + 1rem);
+  line-height: calc(1.2vw + 1.2rem);
+}
+
+h3 a {
+  color: #3B3B3B;
+}
+
+h4 {
+  line-height: 32px;
+}
+
+// Header
+
+.navbar-brand svg {
+    max-width: 270px;
+}
+
+@media (min-width: 576px) {
+  .navbar-brand svg {
+    max-width: 350px;
+  }
+}
+
+.navbar-light .navbar-toggler {
+    color: $gray;
+    border: none;
+}
+
+// hero
+
+#main {
+    padding-top: calc(1vw + 3rem);
+    margin-bottom: calc(2vw + 2rem);
+}
+
+// menu
+
+.menu-box {
+  padding: calc(1vw + 1rem) calc(1.2vw + 1.2rem);
+  height: 400px;
+  margin-bottom: 1rem;
+}
+
 // blog
 
 #blog {
-    background: $blue;
+    background: white;
     padding: 5rem 0 5rem;
-    color: white;
     margin: 8rem -15px;
     & a {
-      color: white;
       text-decoration: underline;
     }
+}
+
+.blog-box {
+    height: 400px;
+}
+
+// highlighted
+
+#highlighted {
+    display: none;
+}
+
+@media (min-width: 576px) {
+  #highlighted {
+      display: initial;
+  }
 }
 
 // Contacto

@@ -6,22 +6,6 @@ $magenta: #D3326F;
 $red: #E8453B;
 $gray: #3B3B3B;
 
-body {
-  position: relative;
-  min-height: 100%;
-  padding-bottom: 110px;
-  font-family: 'Karla', sans-serif;
-  background: #F8F8F9;
-  color: #3B3B3B;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-#main {
-  padding-top: 10px;
-  margin-bottom: calc(2vw + 2rem);
-}
-
 .sign {
     margin-top: -20px;
 }
@@ -35,36 +19,6 @@ body {
 .breadcrumb {
     padding: 0;
     background-color: transparent;
-}
-
-// Headers
-
-h1, h2, h3 {
-  font-family: 'Poppins', sans-serif;
-}
-
-h1 {
-  font-size: calc(2rem + 1vw);
-  line-height: calc(2rem + 2vw);
-}
-
-h2 {
-  font-size: 28px;
-  line-height: 38px;
-}
-
-h3 {
-  font-size: 18px;
-  line-height: 31px;
-  letter-spacing: 1px;
-}
-
-h3 a {
-  color: #3B3B3B;
-}
-
-h4 {
-  line-height: 32px;
 }
 
 a {
@@ -266,12 +220,6 @@ input {
     margin-bottom: 5vw;
 }
 
-.menu-box {
-    padding: 1vw 2vw;
-    height: 400px;
-  margin-bottom: 1rem;
-}
-
 .list-unstyled {
     line-height: 28px;
 }
@@ -329,11 +277,6 @@ input {
     font-size: 12px;
     letter-spacing: 1px;
     margin-top: -10px;
-}
-
-.blog-box {
-    height: 400px;
-    color: white;
 }
 
 #blog .col-md-4:nth-child(2) {

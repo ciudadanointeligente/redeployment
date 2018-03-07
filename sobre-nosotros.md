@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Sobre nosotros
+# <span class="span-white"> Sobre nosotros </span>
 
 ## En pocas palabras
 En Ciudadano Inteligente queremos fortalecer las democracias de América Latina. Para eso buscamos mejorar las reglas con que se distribuye el poder, promovemos un mayor impacto y presencia desde la ciudadanía y la sociedad civil organizada, y aprovechamos el uso innovador de la tecnología.
