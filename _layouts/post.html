@@ -9,7 +9,11 @@ layout: default
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="{{ site.baseurl }}/herramientas">Herramientas</a></li>
-              <li class="breadcrumb-item"><a href="{{ site.baseurl }}/{{ category.permalink }}">{{ page.category }}</a></li>
+              {% for category in site.category %}
+                {% if category.tag == page.category %}
+                  <li class="breadcrumb-item"><a href="{{ site.baseurl }}{{ category.permalink }}">{{ page.category }}</a></li>
+                {% endif %}
+              {% endfor %}
               <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
             </ol>
             <!-- Share -->
