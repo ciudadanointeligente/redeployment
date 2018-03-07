@@ -6,6 +6,9 @@ date:   2017-04-21 12:00:00 -0300
 category: "Informa de manera efectiva"
 highlighted: false
 share_message: "Comparador de Posturas"
+single_image:
+  - img: "/img/hay-acuerdo.png"
+    caption:
 ---
 
 Ejemplos de su uso: Reforma educacional Chile en [hayacuerdo.ciudadanointeligente.org](https://hayacuerdo.ciudadanointeligente.org/)
