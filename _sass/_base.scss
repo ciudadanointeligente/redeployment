@@ -172,7 +172,6 @@ input {
 
 .navbar-nav {
   margin: -9px 0;
-    float: right;
 }
 
 .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
@@ -295,13 +294,6 @@ input {
     -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0);
     box-shadow: 0 1px 1px rgba(0,0,0,0);
     margin-bottom: 30px;
-}
-
-.panel-body {
-    padding: 2vw;
-    height: 400px;
-    position: relative;
-    background: white;
 }
 
 .panel-default {

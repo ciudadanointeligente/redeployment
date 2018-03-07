@@ -8,6 +8,10 @@
 
 // buttons
 
+.btn {
+  margin-bottom: 3px;
+}
+
 .btn-primary {
   border: none;
   color: white;
@@ -79,7 +83,7 @@ h2 {
 
 h3 {
   font-size: calc(0.8vw + 1rem);
-  line-height: calc(1.2vw + 1.2rem);
+  line-height: calc(1vw + 1.8rem);
 }
 
 h3 a {
@@ -155,4 +159,13 @@ h4 {
   & a {
     color: $cyan;
   }
+}
+
+// Herramientas
+
+.panel-body {
+    padding: calc(1vw + 1.5rem) calc(1vw + 1.5rem);
+    height: 400px;
+    position: relative;
+    background: white;
 }
