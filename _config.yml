@@ -8,8 +8,8 @@
 # Site settings
 title: Herramientas de Ciudadano Inteligente
 email: info@ciudadanointeligente.org
-description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
+description: "Con nuestras herramientas puedes crear mejores democracias y mejores sociedades"
+baseurl: "https://herramientas.ciudadanointeligente.org/" # the subpath of your site, e.g. /blog
 url: "https://herramientas.ciudadanointeligente.org/" # the base hostname & protocol for your site
 twitter_username: ciudadanoi
 github_username:  ciudadanointeligente
