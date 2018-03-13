@@ -138,9 +138,7 @@ h4 {
 // blog
 
 #blog {
-    background: white;
     padding: 5rem 0 5rem;
-    margin: 8rem -15px;
     display: none;
     & a {
       text-decoration: underline;
@@ -201,6 +199,14 @@ h4 {
 
 #projects-map {
   margin: 0 -15px;
+  position: relative;
+}
+
+#projects-map h2 {
+    position: absolute;
+    z-index: 1;
+    top: 15px;
+    left: 15px;
 }
 
 #map {
