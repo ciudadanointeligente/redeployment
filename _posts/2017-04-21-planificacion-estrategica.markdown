@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "Planificación Estrategica"
-intro: '¿Tienes objetivos de acción claros pero no logras cumplirlos?
-¿No logran conectar con los actores sociales con los que te deberías relacionar?
-¿Tu presupuesto organizacional es escaso y necesitas optimizarlo de la mejor manera?
-¿Tus flujos de comunicación interna y externa trabajan en función de tu meta institucional?'
+intro: 'Aumenta el impacto de tu organización en problemas públicos con herramientas sencillas y transformadoras.'
 date:   2017-04-21 12:00:00 -0300
 category: "Incide estrategicamente"
 highlighted: true
 share_message: "Planificación Estrategica"
 ---
+¿Tienes objetivos de acción claros pero no logras cumplirlos?
+¿No logran conectar con los actores sociales con los que te deberías relacionar?
+¿Tu presupuesto organizacional es escaso y necesitas optimizarlo de la mejor manera?
+¿Tus flujos de comunicación interna y externa trabajan en función de tu meta institucional?
 
 Estratega es una herramienta que ayuda a una organización a planificar y dar seguimiento a un proceso de incidencia, buscando aumentar su impacto en la solución de problemas públicos a mediano plazo.
 
