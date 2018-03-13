@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Mapa Colaborativo"
-intro: 'La tecnología hace más fácil nuestras vidas. ¿Por qué no utilizarlas para visualizar, desburocratizar y agilizar las soluciones a problemas locales?
-Plataforma que permite a la ciudadanía entregar y recolectar información para luego situarla en un mapa que permite visibilizar hitos o problemas territoriales, facilitando la recolección de datos, la acción y solución de problemas a los organismos responsables.'
+intro: 'Usa herramientas de geolocalización para activar a la ciudadanía y a gobiernos en torno a problemas comunes.'
 date:   2017-04-21 12:00:00 -0300
 category: "Participacion Ciudadana"
 highlighted: false
@@ -11,6 +10,8 @@ single_image:
   - img: "/img/mapa-colaborativo.png"
     caption:
 ---
+La tecnología hace más fácil nuestras vidas. ¿Por qué no utilizarlas para visualizar, desburocratizar y agilizar las soluciones a problemas locales?
+Plataforma que permite a la ciudadanía entregar y recolectar información para luego situarla en un mapa que permite visibilizar hitos o problemas territoriales, facilitando la recolección de datos, la acción y solución de problemas a los organismos responsables.
 
 ## Ejemplos de su uso
 Proyecto Barrios en Acción
