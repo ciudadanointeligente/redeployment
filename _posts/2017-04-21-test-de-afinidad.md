@@ -3,7 +3,7 @@ layout: post
 title:  "Test de afinidad"
 intro: '¿Cómo decidir cuando muchos agentes buscan persuadir a la ciudadanía? Veamos qué tenemos en común.'
 date:   2017-04-21 12:00:00 -0300
-category: "Informa de manera efectiva"
+category: "Informa"
 highlighted: false
 share_message: "Test de afinidad"
 single_image:

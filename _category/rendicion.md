@@ -1,5 +1,6 @@
 ---
-tag: Rinde cuentas o fiscaliza
+title: Rinde cuentas o fiscaliza
+tag: Fiscaliza
 permalink: "/rendicion"
-description: Ser transparente es clave. Muestra tus avances y sigue públicamente el progreso de instituciones y entidades privadas o públicas. 
+description: Ser transparente es clave. Muestra tus avances y sigue públicamente el progreso de instituciones y entidades privadas o públicas.
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Comparador de Posturas"
 intro: 'Dos posiciones sobre un tema. Acá puedes agruparlas y compararlas.'
 date:   2017-04-21 12:00:00 -0300
-category: "Informa de manera efectiva"
+category: "Informa"
 highlighted: false
 share_message: "Comparador de Posturas"
 single_image:

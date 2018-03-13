@@ -3,7 +3,7 @@ layout: post
 title:  "Perfiles Transparentes"
 intro: 'Sigue pistas, prueba hipótesis,compara posturas y resultados.'
 date:   2017-04-21 12:00:00 -0300
-category: "Informa de manera efectiva"
+category: "Informa"
 highlighted: false
 share_message: "Comparador de Posturas"
 single_image:

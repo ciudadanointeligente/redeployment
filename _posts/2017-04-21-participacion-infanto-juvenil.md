@@ -3,7 +3,7 @@ layout: post
 title:  "Participación Infanto Juvenil"
 intro: '¿Crees que es importante que los niños, niñas y adolescentes (NNA) tengan experiencias participativas amigables para su formación como ciudadanos? ¿Buscas desarrollar valores y habilidades ciudadanas desde temprana edad?  ¿Crees que es posible hacer del ejercicio cívico algo más atractivo para quienes serán el futuro de nuestras sociedades?'
 date:   2017-04-21 12:00:00 -0300
-category: "Participacion Ciudadana"
+category: "Impulsa"
 highlighted: true
 share_message: "Participación Infanto Juvenil"
 single_image:
