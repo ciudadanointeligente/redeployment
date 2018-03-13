@@ -1,10 +1,11 @@
 ---
 layout: page
+published: true
 ---
 
 # <span class="span-white"> Sobre nosotros </span>
 
-## En pocas palabras
+## En pocas palabras hola
 En Ciudadano Inteligente queremos fortalecer las democracias de América Latina. Para eso buscamos mejorar las reglas con que se distribuye el poder, promovemos un mayor impacto y presencia desde la ciudadanía y la sociedad civil organizada, y aprovechamos el uso innovador de la tecnología.
 Tenemos presencia activa en Latinoamérica, y nuestras herramientas han sido utilizadas más de 70 veces en diferentes países de la región.
 Hemos ganamos el Golden Nica Award y el Omidyar Network Award. Desde entonces, 13 organizaciones han confiado en nuestra fundación para que sigamos construyendo mejores democracias en Latinoamérica.
