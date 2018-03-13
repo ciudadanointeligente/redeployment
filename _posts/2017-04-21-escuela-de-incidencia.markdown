@@ -3,7 +3,7 @@ layout: post
 title:  "Escuela de Incidencia"
 intro: 'Fomenta liderazgos jóvenes que cambiarán sus comunidades y el mundo con metodologías de incidencia pública.'
 date:   2017-04-21 12:00:00 -0300
-category: "Incide estrategicamente"
+category: "Incide"
 highlighted: true
 share_message: "Escuela de Incidencia"
 ---

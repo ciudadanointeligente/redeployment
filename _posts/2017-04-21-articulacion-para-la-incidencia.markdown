@@ -3,7 +3,7 @@ layout: post
 title:  "Articulación para la incidencia"
 intro: 'Une a distintos sectores de la sociedad para enfrentar un desafío común desde la acción colectiva.'
 date:   2017-04-21 12:00:00 -0300
-category: "Incide estrategicamente"
+category: "Incide"
 highlighted: true
 share_message: "Articulación para la incidencia"
 ---

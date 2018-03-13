@@ -3,7 +3,7 @@ layout: post
 title: Planificación Estratégica
 intro: 'Aumenta el impacto de tu organización en problemas públicos con herramientas sencillas y transformadoras.'
 date: '2017-04-21 12:00:00 -0300'
-category: Incide estrategicamente
+category: Incide
 highlighted: true
 share_message: Planificación Estrategica
 published: true
