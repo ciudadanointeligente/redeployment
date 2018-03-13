@@ -187,3 +187,14 @@ h4 {
 .carousel-control-next:focus, .carousel-control-next:hover, .carousel-control-prev:focus, .carousel-control-prev:hover {
   color: $red;
 }
+
+// map
+
+#projects-map {
+  margin: 0 -15px;
+}
+
+#map {
+    width: 100%;
+    height: 450px;
+}
