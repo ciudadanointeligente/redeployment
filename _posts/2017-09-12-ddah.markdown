@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Rendición de cuentas'
-intro: "¿Cómo sabemos que nuestros representantes cumplen efectivamente lo que prometen? Nuestra plataforma de rendición de cuentas muestra de forma amigable el porcentaje de cumplimiento de un proyecto, ya sea para rendir cuentas de manera voluntaria o para exponer el avance de las promesas de otros."
+intro: "¿Cumplieron con lo prometido? La fiscalización crea mejores democracias."
 date:   2017-07-12 14:30:00 -0300
 category: "Fiscaliza"
 highlighted: false
@@ -10,6 +10,7 @@ single_image:
   - img: "/img/rendicion-de-cuentas.png"
     caption:
 ---
+¿Cómo sabemos que nuestros representantes cumplen efectivamente lo que prometen? Nuestra plataforma de rendición de cuentas muestra de forma amigable el porcentaje de cumplimiento de un proyecto, ya sea para rendir cuentas de manera voluntaria o para exponer el avance de las promesas de otros.
 
 Ejemplos de su uso: Fiscalización del cumplimiento de los primeros 100 días de gobierno de la prefectura de Río de Janeiro, Brasil: [ditoefeito.cidadaniainteligente.org](https://ditoefeito.cidadaniainteligente.org/)
 
