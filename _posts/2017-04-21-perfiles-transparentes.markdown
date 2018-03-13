@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Perfiles Transparentes"
-intro: 'Sigue pistas, prueba hipótesis, compara posturas y resultados.'
+intro: 'Transparenta y compara posturas, visiones y argumentos de agentes clave.'
 date:   2017-04-21 12:00:00 -0300
 category: "Informa"
 highlighted: false
