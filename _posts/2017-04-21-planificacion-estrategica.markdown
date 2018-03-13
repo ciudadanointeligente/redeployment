@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Planificación Estrategica"
-intro: 'Aumenta el impacto de tu organización en problemas públicos con herramientas sencillas y transformadoras.'
-date:   2017-04-21 12:00:00 -0300
-category: "Incide estrategicamente"
+title: Planificación Estratégica
+intro: >-
+  Aumenta el impacto de tu organización en problemas públicos con herramientas
+  sencillas y transformadoras.
+date: '2017-04-21 12:00:00 -0300'
+category: Incide estrategicamente
 highlighted: true
-share_message: "Planificación Estrategica"
+share_message: Planificación Estrategica
+published: true
 ---
 ¿Tienes objetivos de acción claros pero no logras cumplirlos?
 ¿No logran conectar con los actores sociales con los que te deberías relacionar?
