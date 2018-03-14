@@ -49,8 +49,21 @@ body {
   padding: 5rem 0 5rem;
 }
 
+.page-header {
+  padding-top: calc(3rem + 3vw);
+  height: calc(9rem + 9vw);
+}
+
 .mb-30 {
   margin-bottom: 30px;
+}
+
+.mb-60 {
+  margin-bottom: 60px;
+}
+
+.mb-90 {
+  margin-bottom: 90px;
 }
 
 .mt-30 {
@@ -72,8 +85,8 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: calc(1.5rem + 1.5vw);
-  line-height: calc(2.3rem + 2.3vw);
+  font-size: calc(1.7rem + 1.7vw);
+  line-height: calc(2.6rem + 2.6vw);
 }
 
 h2 {
