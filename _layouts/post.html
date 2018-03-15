@@ -33,11 +33,11 @@ layout: default
         </header>
 
         <div>
+          {{ content }}
           {% for image in page.single_image %}
             <img src="{{ site.baseurl }}{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
             <figcaption class="text-light text-right">{{ image.caption }}</figcaption>
           {% endfor %}
-          {{ content }}
         </div>
 
       <div class="fb-comments" data-href="{{ site.url }}{{ page.url}}" data-numposts="8" data-width="100%"></div>
