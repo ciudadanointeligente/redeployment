@@ -26,3 +26,5 @@ Democracia como Redistribución del Poder: l concepto de democracia engloba las 
 Innovación y Creatividad: Nuestro enfoque para adoptar desafíos, plantear soluciones y generar diálogos está basado en la búsqueda de la innovación y el ejercicio creativo.
 
 Actitud Propositiva: Nuestras acciones no se quedan en la denuncia, sino que buscan constantemente proponer ideas, modelos, sistemas y herramientas que mejoren las condiciones existentes.
+
+{% include users.html %}
