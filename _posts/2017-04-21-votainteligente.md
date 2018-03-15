@@ -8,6 +8,10 @@ highlighted: false
 share_message: "Votainteligente"
 single_image:
   - img: "/img/perfiles.png"
+  - img: "/img/frente-a-frente.png"
+  - img: "/img/media-naranja01.png"
+  - img: "/img/preguntales.png"
+  - img: "/img/propuestas-ciudadanas.png"
     caption:
 ---
 ¿Crees que en las próximas elecciones se podría lograr un proceso más democrático? ¿Quieres llevar la voz de los votantes a quienes buscan gobernar?  ¿Buscas que la ciudadanía se informe, proponga y sea parte del debate?
@@ -20,8 +24,3 @@ Ejemplos de su uso para las elecciones presidenciales de Chile 2017:
 - [Post sobre el proyecto](https://blogs.iadb.org/abierto-al-publico/2018/01/18/vota-inteligente-plataforma-participativa-abre-proceso-electoral/,)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/gPRqUpawUFo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-![Comparador de posturas](/img/frente-a-frente.png)
-![Test de afinidad](/img/media-naranja01.png)
-![Pregúntales](/img/preguntales.png)
-![Propuestas ciudadanas](/img/propuestas-ciudadanas.png)
