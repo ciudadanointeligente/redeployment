@@ -37,11 +37,12 @@ body {
   color: #3B3B3B;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  word-wrap: break-word;
 }
 
 @media (min-width: 576px) {
   body {
-    padding-bottom: 50px;
+    padding-bottom: 140px;
   }
 }
 
@@ -82,6 +83,7 @@ span.span-white {
 
 h1, h2, h3 {
   font-family: 'Poppins', sans-serif;
+  word-wrap: break-word;
 }
 
 h1 {
@@ -146,6 +148,7 @@ h4 {
   padding: calc(1vw + 1rem) calc(1.2vw + 1.2rem);
   height: 400px;
   margin-bottom: 1rem;
+  overflow: hidden;
 }
 
 // blog
