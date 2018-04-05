@@ -16,11 +16,11 @@ Si bien nuestro trabajo y experiencia se enfoca en Latinoamérica, estas herrami
 
 Los costos varían de acuerdo a las herramientas y a los requerimientos particulares de cada solicitud. Los costos dependen de los ajustes, desarrollo, diseño, capacitación, apoyo y/o seguimiento que involucre a cada herramienta solicitada. Para cada solicitud de reimplementación creamos un presupuesto personalizado, que se preocupa de retribuir justamente el trabajo que significa para Ciudadano Inteligente, y que al mismo tiempo sea justo para quien recibe la herramienta. ¡Cuéntanos tus necesidades!
 
-### 4. No cuento con los recursos para financiar sus herramientas, ¿Qué puedo hacer?
+### 4. No cuento con los recursos para financiar sus herramientas, ¿qué puedo hacer?
 
 No dudes en contarnos sobre tu proyecto para ver si existen alternativas de colaboración. Si no podemos ayudarte, al menos podremos guiarte sobre cómo podrías encontrar apoyo para tu proyecto.
 
-### 5. Me interesan sus herramientas pero no se ajustan a mis necesidades. ¿Qué puedo hacer?
+### 5. Me interesan sus herramientas pero no se ajustan a mis necesidades, ¿qué puedo hacer?
 
 Si nuestras herramientas no se ajustan a lo que necesitas podemos adaptarlas a tu medida o bien crear una nueva herramienta. No dudes en contactarnos para comprender mejor tus necesidades y ver si podremos co-crear una solución.
 
@@ -32,7 +32,7 @@ Los softwares de código abierto son aquellos que se desarrollan y distribuyen b
 
 Porque juntos y juntas somos más fuertes, creemos que problemas complejos requieren soluciones colectivas. Para lograr el éxito de un proyecto preferimos entregar nuestras herramientas a equipos de personas que puedan ejecutar la coordinación, levantamiento de información, difusión y todas las acciones necesarias que involucran alimentar, mantener y dar a conocer un proyecto. ¡Recomendamos fuertemente aliarte con otros y otras para concretar tu iniciativa!
 
-### 8. Soy una empresa y quiero mejorar mi transparencia ¿Me pueden ayudar?
+### 8. Soy una empresa y quiero mejorar mi transparencia, ¿me pueden ayudar?
 
 Desde Ciudadano Inteligente creemos que para avanzar verdaderamente en transparencia, todos los actores de la sociedad deben participar en este esfuerzo. Aquí encontrarás herramientas que están creadas para apoyar a todo tipo de instituciones en su transparencia, haciéndola amigable y visualmente atractiva. 
 
