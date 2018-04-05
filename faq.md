@@ -28,17 +28,17 @@ Si nuestras herramientas no se ajustan a lo que necesitas podemos adaptarlas a t
 
 Los softwares de código abierto son aquellos que se desarrollan y distribuyen bajo una licencia que permite su uso, modificación y redistribución. De esta forma están disponibles a cualquier usuario de forma gratuita.
 
-### 7. ¿Soy un ciudadano que no pertenece a una organización, ¿cómo puedo aplicar a una herramienta?
+### 7. No pertenezco a una organización, ¿cómo puedo aplicar a una herramienta?
 
 Porque juntos y juntas somos más fuertes, creemos que problemas complejos requieren soluciones colectivas. Para lograr el éxito de un proyecto preferimos entregar nuestras herramientas a equipos de personas que puedan ejecutar la coordinación, levantamiento de información, difusión y todas las acciones necesarias que involucran alimentar, mantener y dar a conocer un proyecto. ¡Recomendamos fuertemente aliarte con otros y otras para concretar tu iniciativa!
 
 ### 8. Soy una empresa y quiero mejorar mi transparencia ¿Me pueden ayudar?
 
-Desde Ciudadano Inteligente creemos que para avanzar verdaderamente en transparencia, todos los actores de la sociedad deben participar en este esfuerzo. Aquí (LINK) encontrarás herramientas que están creadas para apoyar a todo tipo de instituciones en su transparencia, haciéndola amigable y visualmente atractiva. Revisa la sección ‘empresas’ (LINKEAR) para revisar todas las alternativas que tenemos para ti.  
+Desde Ciudadano Inteligente creemos que para avanzar verdaderamente en transparencia, todos los actores de la sociedad deben participar en este esfuerzo. Aquí encontrarás herramientas que están creadas para apoyar a todo tipo de instituciones en su transparencia, haciéndola amigable y visualmente atractiva. 
 
 ### 9. Soy un medio de comunicación, ¿qué puedo hacer con sus herramientas?
 
-Ofrecemos herramientas que te permitirán hacer más atractivos y comprensibles los contenidos que publicas. Estas se pueden utilizar para facilitar la visualización de información compleja o para incluir a tus lectores en la creación de los contenidos de forma interactiva. Revisa la sección ‘medios de comunicación’ (LINKEAR) para revisar r todas las alternativas que tenemos para ti.  
+Ofrecemos herramientas que te permitirán hacer más atractivos y comprensibles los contenidos que publicas. Estas herramientas se pueden utilizar para facilitar la visualización de información compleja o para incluir a tus lectores en la creación de los contenidos de forma interactiva. 
 
 ### 10. Si son una organización no gubernamental  sin fines de lucro, ¿por qué cobran por estos servicios?
 
