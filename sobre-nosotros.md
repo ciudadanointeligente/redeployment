@@ -4,6 +4,8 @@ published: true
 title: Sobre nosotros
 ---
 
+
+
 En Ciudadano Inteligente queremos fortalecer las democracias de América Latina. Para eso buscamos mejorar las reglas con que se distribuye el poder, e impulsamos a la ciudadanía y la sociedad civil organizada a incidir más y mejor en la toma de decisiones políticas, aprovechando el uso innovador de las tecnologías.
 Tenemos presencia activa en Latinoamérica, y nuestras herramientas han sido utilizadas más de 70 veces en diferentes países de la región.
 Hemos ganado los premios Prix Ars Electronica y el Omidyar Network Award. Desde entonces, decenas de organizaciones han confiado en nuestra fundación para que sigamos construyendo mejores democracias.
