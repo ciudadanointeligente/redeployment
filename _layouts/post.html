@@ -5,7 +5,6 @@ layout: default
 <div class="container mt-74">
     <article>
       <div class="page-section">
-        <header>
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="{{ site.baseurl }}/herramientas">Herramientas</a></li>
@@ -35,10 +34,20 @@ layout: default
             <p class="mb-60">
               <a href="https://{{ page.link }}" target="_blank"><i class="fas fa-mouse-pointer"></i> {{ page.link }}</a>
             </p>
-            <h2>El equipo</h2>
-            <ul class="">
+            <h2 class="mb-30">El equipo</h2>
+            <ul class="list-unstyled">
               {% for team in page.team_members %}
-                <li>{{ team }}</li>
+                <li>
+                  <div class="row no-gutters mb-30">
+                    <div class="col-3">
+                      <img src="{{ site.baseurl }}{{ team.img }}" class="img-responsive"/>
+                    </div>
+                    <div class="col-9">
+                      <h5 class="mb-0">{{ team.name }}</h5>
+                      {{ team.rol }}
+                    </div>
+                  </div>
+                </li>
               {% endfor %}
             </ul>
             <h2>Contáctanos</h2>
@@ -46,26 +55,17 @@ layout: default
           </div>
           <div class="col-sm-12 col-md-8">
             {{ content }}
+            {% for image in page.single_image %}
+             <h3 class="mb-30 mt-30">Estructura de la plataforma</h3>
+              <img src="{{ site.baseurl }}{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
+              <figcaption class="text-light text-right">{{ image.caption }}</figcaption>
+            {% endfor %}
           </div>
         </div>
-        </header>
 
-        <div>
-
-           <h3 class="mb-30 mt-30">Estructura de la plataforma</h3>
-          {% for image in page.single_image %}
-            <img src="{{ site.baseurl }}{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
-            <figcaption class="text-light text-right">{{ image.caption }}</figcaption>
-          {% endfor %}
+        <div class="mt-90">
+          <div class="fb-comments" data-href="{{ site.url }}{{ page.url}}" data-numposts="8" data-width="100%"></div>
         </div>
-
-      <div class="fb-comments" data-href="{{ site.url }}{{ page.url}}" data-numposts="8" data-width="100%"></div>
-
-        <address>
-          {% for author in page.authors %}
-            {{author.name}}
-          {% endfor %}
-        </address>
 
 
       </div>

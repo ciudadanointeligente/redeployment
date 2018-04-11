@@ -9,6 +9,7 @@ share_message: "Organizaciones Transparentes"
 single_image:
   - img: "/img/papu01.png"
   - img: "/img/papu02.png"
+    caption:
 ---
 Plataforma que facilita la visualización, comprensión y comparación amigable y cercana de datos de transparencia de entidades públicas o privadas. Permite a la ciudadanía, organizaciones y medios de comunicación entender información compleja de forma simple y atractiva.
 
