@@ -7,15 +7,41 @@ category: Incide
 highlighted: true
 share_message: Planificación Estrategica
 published: true
+link: "estratega.io"
+team_members:
+  - team:
+    name: Eglé Flores
+    img: "/img/egle.png"
+    rol: Coordinadora
+  - team:
+    name: Jordi Bari
+    img: "/img/jordi.png"
+    rol: Desarrollador
+  - team:
+    name: Lissett García
+    img: "/img/lissett.png"
+    rol: Diseñadora
+  - team:
+    name: Laura Encalada
+    img: "/img/laura.png"
+    rol: Metodóloga
 ---
-¿Tienes objetivos de acción claros pero no logras cumplirlos?
-¿No logran conectar con los actores sociales con los que te deberías relacionar?
-¿Tu presupuesto organizacional es escaso y necesitas optimizarlo de la mejor manera?
-¿Tus flujos de comunicación interna y externa trabajan en función de tu meta institucional?
+Aumenta el impacto de tu organización en problemas públicos con herramientas sencillas y transformadoras.
 
-Estratega es una herramienta que ayuda a una organización a planificar y dar seguimiento a un proceso de incidencia, buscando aumentar su impacto en la solución de problemas públicos a mediano plazo.
+¿Tienes objetivos de acción claros pero no logras cumplirlos? ¿No logran conectar con los actores sociales con los que te deberías relacionar? ¿Tu presupuesto organizacional es escaso y necesitas optimizarlo de la mejor manera?
 
-Más info: [estratega.io](http://estratega.io/)
+Esta herramienta, con enfoque organizacional, está dirigida a organizaciones de la sociedad civil, instituciones públicas y organismos internacionales.
+
+Estratega comparte criterios para la caracterización de un problema público y elementos para la generación y priorización de objetivos que contribuyan a su solución. Incluye también herramientas de mapeo de actores, así como de seguimiento y evaluación de procesos.
+
+## Proceso
+1. Implica un encuadre del tema a incidir y un posterior un análisis colaborativo sobre la organización y el problema que buscan abordar
+2. Se realiza un taller presencial (4 jornadas de trabajo) - facilitado por FCI - para desarrollar la estrategia de incidencia en política pública que permita a la organización alcanzar sus objetivos de impacto
+3. Si la organización lo solicita, FCI puede brindar accesos y asesoría para hacer uso de la plataforma digital Estratega, que permite sistematizar y dar seguimiento a la implementación de la estrategia de incidencia planificada.
+
+## Experiencia destacada
+- En septiembre 2015, la Fundación Techo para Chile (Techo). A partir de los resultados de Estratega, Techo creó el Área de Incidencia y utilizó la metodología Estratega a nivel nacional para hacer análisis y planes regionales de incidencia.
+- Durante el transcurso de los años 2016 y 2017 se han desarrollado formaciones en Puerto Rico, México, Indonesia,  Nicaragua y Chile.
 
 ## Testimonios
 
