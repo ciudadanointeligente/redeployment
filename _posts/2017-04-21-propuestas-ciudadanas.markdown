@@ -4,7 +4,7 @@ title:  "Propuestas Ciudadanas"
 intro: 'Haz que la voz ciudadana llegue a quienes toman decisiones  a través de propuestas digitales y públicas.'
 date:   2017-04-21 12:00:00 -0300
 category: "Impulsa"
-highlighted: false
+published: false
 share_message: "Propuestas Ciudadanas"
 single_image:
   - img: "/img/propuestas-ciudadanas.png"

@@ -4,7 +4,7 @@ title:  "Organizaciones Transparentes"
 intro: 'Comparte y compara información de manera fácil, atractiva y accesible de diferentes entidades.'
 date:   2017-04-21 12:00:00 -0300
 category: "Informa"
-highlighted: true
+published: false
 share_message: "Organizaciones Transparentes"
 single_image:
   - img: "/img/papu01.png"
