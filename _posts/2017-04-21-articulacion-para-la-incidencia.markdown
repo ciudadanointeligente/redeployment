@@ -44,7 +44,7 @@ Los contenidos del taller se enfocan en: caracterización de una problemática, 
 6. Finalmente, FCI acompaña a las organizaciones que lideran la implementación de lo planificado y termina el proceso con una evaluación y reflexión de lecciones aprendidas.
 
 ## Experiencias destacada
-- Hemos facilitado LabCívicos en 11 países de América Latina, y estamos llevando la metodología a más contextos y áreas temáticas tales como violencia de género en Honduras, gestión de aguas en Bolivia, violencia armada en juventudes de Colombia, y problema de los desechos en Ecuador y Colombia.
+- Hemos facilitado LabCívicos en 12 países de América Latina, y estamos llevando la metodología a más contextos y áreas temáticas tales como violencia de género en Honduras, gestión de aguas en Bolivia, violencia armada en juventudes de Colombia, y problema de los desechos en Ecuador y Colombia.
 
 
 Ejemplos de su uso: [labcivico.org/casos](https://labcivico.org/casos.html)

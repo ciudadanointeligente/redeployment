@@ -36,7 +36,6 @@ Mediante el ejercicio del análisis crítico, la deliberación y cooperación, N
 Nuestra metodología es flexible y puede ser utilizada por formadores en distintas instancias donde se busque ejercitar la reflexión y deliberación de NNA.
 
 ## Etapas
-Duración aproximada: 4 horas lectivas por sesión.
 1. Actividad “rompe hielo”: NNA desarrollan actividades que permiten iniciar procesos de reflexión y diálogo.
 2. Problemas y Propuestas: NNA identifican en conjunto problemas comunes y sus posibles soluciones, así como los responsables de implementarlas (curso, profesores, directivos, apoderados, autoridades políticas, etcétera).
 3. Campaña: NNA elaboran materiales gráficos y artísticos que dan color a sus propuestas.
