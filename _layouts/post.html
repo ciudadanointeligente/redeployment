@@ -55,11 +55,13 @@ layout: default
           </div>
           <div class="col-sm-12 col-md-8">
             {{ content }}
-            {% for image in page.single_image %}
-             <h3 class="mb-30 mt-30">Estructura de la plataforma</h3>
-              <img src="{{ site.baseurl }}{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
-              <figcaption class="text-light text-right">{{ image.caption }}</figcaption>
-            {% endfor %}
+            {% if page.single_image %}
+              <h3 class="mb-30 mt-30">Estructura de la plataforma</h3>
+              {% for image in page.single_image %}
+                <img src="{{ site.baseurl }}{{ image.img }}" class="img-responsive article-img-header" alt="{{ page.title }}" title="{{ page.title }}" />
+                <figcaption class="text-light text-right">{{ image.caption }}</figcaption>
+              {% endfor %}
+            {% endif %}
           </div>
         </div>
 
