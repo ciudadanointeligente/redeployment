@@ -32,15 +32,15 @@ Aumenta el impacto de tu organización en problemas públicos con herramientas s
 
 Esta herramienta, con enfoque organizacional, está dirigida a organizaciones de la sociedad civil, instituciones públicas y organismos internacionales.
 
-Estratega comparte criterios para la caracterización de un problema público y elementos para la generación y priorización de objetivos que contribuyan a su solución. Incluye también herramientas de mapeo de actores, así como de seguimiento y evaluación de procesos.
+Planificación Estratégica comparte criterios para la caracterización de un problema público y elementos para la generación y priorización de objetivos que contribuyan a su solución. Incluye también herramientas de mapeo de actores, así como de seguimiento y evaluación de procesos.
 
 ## Proceso
 1. Implica un encuadre del tema a incidir y un posterior un análisis colaborativo sobre la organización y el problema que buscan abordar
 2. Se realiza un taller presencial (4 jornadas de trabajo) - facilitado por FCI - para desarrollar la estrategia de incidencia en política pública que permita a la organización alcanzar sus objetivos de impacto
-3. Si la organización lo solicita, FCI puede brindar accesos y asesoría para hacer uso de la plataforma digital Estratega, que permite sistematizar y dar seguimiento a la implementación de la estrategia de incidencia planificada.
+3. Si la organización lo solicita, FCI puede brindar accesos y asesoría para hacer uso de la plataforma digital Planificación Estratégica, que permite sistematizar y dar seguimiento a la implementación de la estrategia de incidencia planificada.
 
 ## Experiencia destacada
-- En septiembre 2015, la Fundación Techo para Chile (Techo). A partir de los resultados de Estratega, Techo creó el Área de Incidencia y utilizó la metodología Estratega a nivel nacional para hacer análisis y planes regionales de incidencia.
+- En septiembre 2015, la Fundación Techo para Chile (Techo). A partir de los resultados de Planificación Estratégica, Techo creó el Área de Incidencia y utilizó la metodología Planificación Estratégica a nivel nacional para hacer análisis y planes regionales de incidencia.
 - Durante el transcurso de los años 2016 y 2017 se han desarrollado formaciones en Puerto Rico, México, Indonesia,  Nicaragua y Chile.
 
 ## Testimonios
@@ -50,7 +50,7 @@ Estratega comparte criterios para la caracterización de un problema público y 
     <img src="{{ site.baseurl }}/img/quote.svg">
   </div>
   <div class="col-md-10">
-    <p>Estratega me ha servido para identificar y ponderar todos los factores que influyen en el éxito de una planificación de incidencia teniendo muy claro qué es lo que se quiere conseguir. Esto nos ha permitido planificar con el nivel de detalle y orden cronológico que requiere el logro de cada uno de nuestros objetivos.</p>
+    <p>Planificación Estratégica me ha servido para identificar y ponderar todos los factores que influyen en el éxito de una planificación de incidencia teniendo muy claro qué es lo que se quiere conseguir. Esto nos ha permitido planificar con el nivel de detalle y orden cronológico que requiere el logro de cada uno de nuestros objetivos.</p>
     <p>
       <img src="{{ site.baseurl }}/img/estratega/danae.png" class="rounded-circle" alt="">
       <span class="post-meta">Danae Fuentes, Encargada de Incidencia en Políticas Públicas Hogar de Cristo</span>
@@ -63,7 +63,7 @@ Estratega comparte criterios para la caracterización de un problema público y 
     <img src="{{ site.baseurl }}/img/quote.svg">
   </div>
   <div class="col-md-10">
-    <p>Estratega fue el comienzo para abordar el tema de incidencia de forma profesional y con sentido. Con Estratega nos encontramos, no solo con un equipo de profesionales que nos orientaron hacia dónde apuntar con nuestro trabajo, sino con personas convencidas de que el trabajo entre la sociedad civil es posible.</p>
+    <p>Planificación Estratégica fue el comienzo para abordar el tema de incidencia de forma profesional y con sentido. Con Planificación Estratégica nos encontramos, no solo con un equipo de profesionales que nos orientaron hacia dónde apuntar con nuestro trabajo, sino con personas convencidas de que el trabajo entre la sociedad civil es posible.</p>
     <p>
       <img src="{{ site.baseurl }}/img/estratega/josemanuel.png" class="rounded-circle" alt="">
       <span class="post-meta">José Manuel Tapia, Coordinador de Extensión CIS TECHO - Chile</span>
@@ -76,7 +76,7 @@ Estratega comparte criterios para la caracterización de un problema público y 
     <img src="{{ site.baseurl }}/img/quote.svg">
   </div>
   <div class="col-md-10">
-    <p>Con Estratega he observado cómo intenciones se traducen en objetivos de política pública definidos y concretos, con indicadores de éxito y un itinerario de acciones claro que orienta la acción de incidencia. Esto nos ha permitido priorizar los objetivos y distribuir los esfuerzos de la organización.</p>
+    <p>Con Planificación Estratégica he observado cómo intenciones se traducen en objetivos de política pública definidos y concretos, con indicadores de éxito y un itinerario de acciones claro que orienta la acción de incidencia. Esto nos ha permitido priorizar los objetivos y distribuir los esfuerzos de la organización.</p>
     <p>
       <img src="{{ site.baseurl }}/img/estratega/octavio.png" class="rounded-circle" alt="">
       <span class="post-meta">Octavio Del Favero, Coordinador Legislativo Fundación Ciudadano Inteligente</span>
