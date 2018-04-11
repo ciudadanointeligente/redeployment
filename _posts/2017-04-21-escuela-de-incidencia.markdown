@@ -6,6 +6,10 @@ date:   2017-04-21 12:00:00 -0300
 category: "Incide"
 highlighted: true
 share_message: "Escuela de Incidencia"
+link: "escueladeincidencia.org"
+team_members:
+  - team: Eglé Flores
+  - team: Jordi Bari
 ---
 ¿Buscas generar cambios sociales potenciando a los líderes de tu comunidad? ¿Crees que los líderes latinoamericanos necesitan más herramientas para apoyar a sus comunidades? ¿Sientes que trabajar con otras personas se logran resultados más inclusivos y representativos?
 
