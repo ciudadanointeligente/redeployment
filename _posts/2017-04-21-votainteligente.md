@@ -33,17 +33,7 @@ team_members:
 ---
 ¿No sabes cómo llegar a los tomadores de decisión? ¿Tienes una excelente idea y la quieres compartir para que más gente se sume? ¿Crees que la construcción de políticas públicas se puede hacer de forma más colaborativa?
 
-La elección es de todos. Plataforma que promueve la articulación ciudadana en tiempos de elecciones (presidenciales, parlamentarias, de gobierno local). Incluye perfiles de las candidaturas, test de afinidad entre los candidatos y electores, comparación de posturas, espacio para que la ciudadanía haga sus propuestas y las candidaturas las apoyen o rechacen públicamente. También puede ir acompañado de metodologías para la elaboración de propuestas, incidencia y articulación social.
-
-Vota Inteligente permite realizar propuestas hechas por la ciudadanía para ser entregadas a los candidatos y que ellos las incorporen a sus programas.
-
-Las propuestas pueden conseguir apoyo de más ciudadanos y de organizaciones quienes pueden patrocinar propuestas y así hacerlas llegar más lejos.
-
-Las organizaciones participantes puedan tener una página donde sus propuestas y las patrocinadas son desplegadas para que puedan adquirir más relevancia.
-
-Por otro lado, las candidaturas también tiene su espacio, allí podrán mostrar información básica tal como: Partido y coalición, lema de campaña, página oficial, etc.
-
-Además, cuando las elecciones se encuentran cerca, puedes utilizar la Media Naranja Política para que los ciudadanos puedan ver qué candidaturas se han comprometido más con sus intereses.
+Esta plataforma promueve la articulación ciudadana en tiempos de elecciones (presidenciales, parlamentarias, de gobierno local). Incluye perfiles de las candidaturas, test de afinidad entre los candidatxs y electores, comparación de posturas, espacio para que la ciudadanía haga sus propuestas y las candidaturas las apoyen o rechacen públicamente. Esta herramienta también contempla un acompañamiento de metodologías para la elaboración de propuestas, incidencia y articulación social.
 
 ## Etapas
 Duración aproximada: 8 meses (según complejidad del desafío).
@@ -53,7 +43,7 @@ Duración aproximada: 8 meses (según complejidad del desafío).
 4. Lanzamiento de la Media Naranja Política.
 
 ## Han utilizado esta herramienta
-- VotaInteligente, Chile(2017)
+- VotaInteligente, Chile (2017)
 
 ## Beneficios
 1. Participación proactiva de la ciudadanía.
