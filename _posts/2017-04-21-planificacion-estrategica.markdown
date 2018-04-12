@@ -28,9 +28,9 @@ team_members:
 ---
 ¿Tienes objetivos de acción claros pero no logras cumplirlos? ¿No logras conectar a tu organización con actores sociales clave? ¿Tu presupuesto organizacional es escaso y necesitas optimizarlo de la mejor manera?
 
-Esta herramienta está dirigida a organizaciones de la sociedad civil, instituciones públicas y organismos internacionales.
-
 Planificación Estratégica comparte criterios para la caracterización de un problema público y elementos para la generación y priorización de objetivos que contribuyan a su solución. Incluye también herramientas de mapeo de actores, así como de seguimiento y evaluación de procesos.
+
+Esta herramienta está dirigida a organizaciones de la sociedad civil, instituciones públicas y organismos internacionales.
 
 ## Proceso
 1. Implica un encuadre del tema a incidir y un posterior análisis colaborativo sobre la organización y el problema que buscan abordar
