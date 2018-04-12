@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Planificación Estratégica
-intro: 'Aumenta el impacto de tu organización en problemas públicos con herramientas sencillas y transformadoras.'
+intro: 'Planificación Estratégica es un proyecto de planificación y seguimiento de procesos de incidencia, que busca fomentar el impacto de las organizaciones en la solución de problemas públicos a través del desarrollo de estrategias de incidencia de políticas públicas a mediano plazo.'
 date: '2017-04-21 12:00:00 -0300'
 category: Incide
 highlighted: true
@@ -41,7 +41,7 @@ Planificación Estratégica comparte criterios para la caracterización de un pr
 
 ## Experiencia destacada
 - Septiembre 2015, Fundación Techo para Chile (Techo). A partir de los resultados de Planificación Estratégica, Techo creó el Área de Incidencia y utilizó la metodología Planificación Estratégica a nivel nacional para hacer análisis y planes regionales de incidencia.
-- Durante el transcurso de los años 2016 y 2017 se han desarrollado formaciones en Chile, Indonesia, México, Nicaragua y Puerto Rico. 
+- Durante el transcurso de los años 2016 y 2017 se han desarrollado formaciones en Chile, Indonesia, México, Nicaragua y Puerto Rico.
 
 ## Testimonios
 

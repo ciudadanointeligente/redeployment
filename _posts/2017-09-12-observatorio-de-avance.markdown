@@ -4,7 +4,7 @@ title:  'Observatorio de Avance'
 intro: "¿Cuánto avanzan las soluciones a problemas públicos? "
 date:   2017-07-12 14:30:00 -0300
 category: "Fiscaliza"
-highlighted: false
+published: false
 share_message: "Observatorio de Avance"
 single_image:
   - img: "/img/observatorio.png"
