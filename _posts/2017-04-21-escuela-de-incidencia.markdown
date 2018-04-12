@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Escuela de Incidencia"
-intro: 'Fomenta liderazgos jóvenes que cambiarán sus comunidades y el mundo con metodologías de incidencia pública.'
+intro: 'La Escuela de Incidencia es una instancia de formación que busca fomentar el liderazgo colaborativo y participativo de nuevas generaciones, para lograr cambios sociales a través de procesos de incidencia en políticas públicas.'
 date:   2017-04-21 12:00:00 -0300
 category: "Incide"
 highlighted: true
