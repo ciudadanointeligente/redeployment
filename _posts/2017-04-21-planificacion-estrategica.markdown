@@ -5,7 +5,7 @@ intro: 'Aumenta el impacto de tu organización en problemas públicos con herram
 date: '2017-04-21 12:00:00 -0300'
 category: Incide
 highlighted: true
-share_message: Planificación Estrategica
+share_message: Planificación Estratégica
 published: true
 link: "estratega.io"
 team_members:
@@ -26,7 +26,7 @@ team_members:
     img: "/img/laura.png"
     rol: Metodóloga
 ---
-¿Tienes objetivos de acción claros pero no logras cumplirlos? ¿No logran conectar con los actores sociales con los que te deberías relacionar? ¿Tu presupuesto organizacional es escaso y necesitas optimizarlo de la mejor manera?
+¿Tienes objetivos de acción claros pero no logras cumplirlos? ¿No logras conectar a tu organización con actores sociales clave? ¿Tu presupuesto organizacional es escaso y necesitas optimizarlo de la mejor manera?
 
 Esta herramienta está dirigida a organizaciones de la sociedad civil, instituciones públicas y organismos internacionales.
 
