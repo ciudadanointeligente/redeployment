@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comparador de Posturas"
-intro: 'Plataforma que permite informar y transparentar el debate contrastando posiciones de dos entidades frente a un tema, indicando el nivel de acuerdo existente entre las dos.'
+intro: 'Dos posiciones sobre un tema. Acá puedes agruparlas y compararlas.'
 date:   2017-04-21 12:00:00 -0300
 category: "Informa"
 highlighted: false
