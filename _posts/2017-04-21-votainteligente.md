@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Votainteligente"
-intro: 'Vota Inteligente permite a la ciudadanía escribir sus propuestas y nosotros se las hacemos llegar para que se comprometan de manera pública con ellas y así las hagan parte de sus programas de gobierno.'
+title:  "Vota inteligente"
+intro: 'Elecciones más participativas y transparentes es lo que entrega esta herramienta digital de vanguardia.'
 date:   2017-04-21 12:00:00 -0300
 category: "Impulsa"
 highlighted: false
@@ -32,6 +32,8 @@ team_members:
     rol: Desarrollador
 ---
 ¿No sabes cómo llegar a los tomadores de decisión? ¿Tienes una excelente idea y la quieres compartir para que más gente se sume? ¿Crees que la construcción de políticas públicas se puede hacer de forma más colaborativa?
+
+La elección es de todos. Plataforma que promueve la articulación ciudadana en tiempos de elecciones (presidenciales, parlamentarias, de gobierno local). Incluye perfiles de las candidaturas, test de afinidad entre los candidatos y electores, comparación de posturas, espacio para que la ciudadanía haga sus propuestas y las candidaturas las apoyen o rechacen públicamente. También puede ir acompañado de metodologías para la elaboración de propuestas, incidencia y articulación social.
 
 Vota Inteligente permite realizar propuestas hechas por la ciudadanía para ser entregadas a los candidatos y que ellos las incorporen a sus programas.
 
