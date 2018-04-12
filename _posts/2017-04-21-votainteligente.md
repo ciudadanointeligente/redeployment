@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Votainteligente"
-intro: 'Vota Inteligente Propuestas Ciudadanas permite a la ciudadanía escribir sus propuestas y nosotros se las hacemos llegar para que se comprometan de manera pública con ellas y así las hagan parte de sus programas de gobierno.'
+intro: 'Vota Inteligente permite a la ciudadanía escribir sus propuestas y nosotros se las hacemos llegar para que se comprometan de manera pública con ellas y así las hagan parte de sus programas de gobierno.'
 date:   2017-04-21 12:00:00 -0300
 category: "Impulsa"
 highlighted: false
