@@ -38,7 +38,7 @@ Planificación Estratégica comparte criterios para la caracterización de un pr
 3. Si la organización lo solicita, FCI puede brindar accesos y asesoría para hacer uso de la plataforma digital Planificación Estratégica, que permite sistematizar y dar seguimiento a la implementación de la estrategia de incidencia planificada.
 
 ## Experiencia destacada
-- Septiembre 2015, Fundación Techo para Chile (Techo). A partir de los resultados de Planificación Estratégica, Techo creó el Área de Incidencia y utilizó la metodología Planificación Estratégica a nivel nacional para hacer análisis y planes regionales de incidencia.
+- Septiembre 2015, [Fundación Techo para Chile (Techo)](http://www.techo.org/?gclid=CP3FheqLytICFcQEkQodH7cFYg). A partir de los resultados de Planificación Estratégica, Techo creó el Área de Incidencia y utilizó la metodología Planificación Estratégica a nivel nacional para hacer análisis y planes regionales de incidencia.
 - Durante el transcurso de los años 2016 y 2017 se han desarrollado formaciones en Chile, Indonesia, México, Nicaragua y Puerto Rico.
 
 ## Testimonios
