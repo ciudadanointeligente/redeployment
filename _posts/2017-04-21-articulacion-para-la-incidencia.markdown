@@ -5,7 +5,7 @@ intro: 'Une a distintos sectores de la sociedad para enfrentar un desafío comú
 date:   2017-04-21 12:00:00 -0300
 category: "Incide"
 highlighted: true
-share_message: "Articulación para la incidencia"
+share_message: "Articulación para la Incidencia"
 link: "labcivico.org"
 team_members:
   - team:
