@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Planificación Estratégica
-intro: 'Planificación Estratégica es un proyecto de planificación y seguimiento de procesos de incidencia, que busca fomentar el impacto de las organizaciones en la solución de problemas públicos a través del desarrollo de estrategias de incidencia de políticas públicas a mediano plazo.'
+intro: 'Aumenta el impacto de tu organización en problemas públicos con herramientas sencillas y transformadoras.'
 date: '2017-04-21 12:00:00 -0300'
 category: Incide
 highlighted: true
@@ -26,8 +26,6 @@ team_members:
     img: "/img/laura.png"
     rol: Metodóloga
 ---
-Aumenta el impacto de tu organización en problemas públicos con herramientas sencillas y transformadoras.
-
 ¿Tienes objetivos de acción claros pero no logras cumplirlos? ¿No logran conectar con los actores sociales con los que te deberías relacionar? ¿Tu presupuesto organizacional es escaso y necesitas optimizarlo de la mejor manera?
 
 Esta herramienta está dirigida a organizaciones de la sociedad civil, instituciones públicas y organismos internacionales.
