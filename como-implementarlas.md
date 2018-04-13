@@ -3,7 +3,7 @@ layout: page
 title: ¿Cómo implementarlas?
 ---
 
-En Ciudadano Inteligente queremos que más ciudadanos, organizaciones, instituciones y medios de comunicación cuenten con nuestras herramientas para avanzar, informar y colaborar eficazmente.
+En Ciudadano Inteligente queremos que más personas, organizaciones, instituciones y medios de comunicación cuenten con nuestras herramientas para avanzar, informar y colaborar eficazmente.
 
 La mayoría de nuestras herramientas se implementan de una de estas tres formas:
 
