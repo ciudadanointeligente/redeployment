@@ -29,11 +29,11 @@ team_members:
     img: "/img/martin.png"
     rol: Metodólogo
 ---
-¿Buscas generar cambios sociales potenciando a los líderes de tu comunidad? ¿Crees que los líderes latinoamericanos necesitan más herramientas para apoyar a sus comunidades? ¿Sientes que trabajar con otras personas se logran resultados más inclusivos y representativos?
+¿Buscas generar cambios sociales potenciando a líderes de tu comunidad? ¿Crees que lxs líderes latinoamericanos necesitan más herramientas para apoyar a sus comunidades? ¿Sientes que trabajar con otras personas se logran resultados más inclusivos y representativos?
 
-La Escuela de Incidencia es una instancia de formación que busca fomentar el liderazgo colaborativo y participativo de nuevas generaciones, para lograr cambios sociales a través de procesos de incidencia en políticas públicas.
+La Escuela de Incidencia es una instancia de formación que busca fomentar el liderazgo colaborativo y participativo de nuevas generaciones  para lograr cambios sociales, a través de procesos de incidencia en políticas públicas.
 
-Los contenidos que se abordan dentro del proyecto son la incidencia social y política, modelos de facilitación de procesos y metodologías de trabajo colaborativo.
+Los contenidos que se abordan dentro del proyecto corresponden a incidencia social y política, modelos de facilitación de procesos y metodologías de trabajo colaborativo.
 
 ## Etapas
 
@@ -43,7 +43,7 @@ Los contenidos que se abordan dentro del proyecto son la incidencia social y pol
 4. Se preparan y ejecutan los Laboratorios Cívicos que realiza cada participante de la Escuela en su espacio de acción.
 5. Quienes participan de la Escuela reportan avances y comparten aprendizajes para mejorar futuros procesos de incidencia.
 
-## Experiencia destacada
+## Experiencias destacadas
 - La primera versión, implementada con el apoyo del National Endowment for Democracy (NED) se desarrolló durante el año 2017 en Bolivia, Colombia, Ecuador y Perú
 - La versión 2018, implementada con el apoyo del National Endowment for Democracy  NED y el International Development Research Center IDRC se realizará en Brasil, Chile, Colombia, Ecuador, Guatemala y México
 
