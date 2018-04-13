@@ -35,4 +35,4 @@ Comparador de Posturas muestra de forma simple y entretenida la visión de dos e
 
 ## Experiencias Destacadas
 - Revolución Pingüina: Las manifestaciones estudiantiles en Chile durante el 2012 levantaron una discusión profunda y compleja. Esta herramienta permitió seguir el debate sobre la reforma educacional en el país, comparando la postura del gobierno con diferentes actores sociales (Educación 2020, FECH, UDI, Horizontal, Evópoli, Instituto Libertad y Amplitud).
-- Sistema Binominal en Chile: Esta herramienta perimitió contrastar diferentes posturas respecto de la reforma al sistema binominal. Esta plataforma permitió visualizar tanto la visión del Gobierno como la de las diferentes bancadas políticas de opisición. 
+- Sistema Binominal en Chile: Esta herramienta perimitió contrastar diferentes posturas respecto de la reforma al sistema binominal en el país. Tanto la visión del gobierno como la de la bancadas políticas de oposición eran visualizadas de manera ordenadas y amigable en esta plataforma.
