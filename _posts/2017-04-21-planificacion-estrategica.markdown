@@ -33,9 +33,9 @@ Planificación Estratégica comparte criterios para la caracterización de un pr
 Esta herramienta está dirigida a organizaciones de la sociedad civil, instituciones públicas y organismos internacionales.
 
 ## Proceso
-1. Se crea un encuadre del tema a incidir y un posterior análisis colaborativo sobre la organización y el problema que se busca abordar.
-2. Se realiza un taller presencial (4 jornadas de trabajo) - facilitado por FCI - para desarrollar la estrategia de incidencia en política pública que permite a la organización alcanzar sus objetivos de impacto.
-3. Si la organización lo solicita, FCI puede brindar accesos y asesoría para hacer uso de la plataforma digital Planificación Estratégica, que permite sistematizar y dar seguimiento a la implementación de la estrategia de incidencia planificada.
+1. Primero se crea un encuadre del tema a incidir y luego un análisis colaborativo sobre la organización y el problema que se busca abordar.
+2. Se realiza un taller presencial (4 jornadas de trabajo) - facilitado por FCI - para desarrollar la estrategia de incidencia en política pública, permitiendo a la organización alcanzar sus objetivos de impacto.
+3. En caso de que la organización lo solicite, FCI puede brindar accesos y asesoría para hacer uso de la plataforma digital Planificación Estratégica. Esto permitirá sistematizar y dar seguimiento a la implementación de la estrategia de incidencia planificada.
 
 ## Experiencias destacadas
 - Trabajamos con la Fundación Techo para Chile para la creación del Área de Incidencia. En esa oportunidad la ONG utilizó nuestra metodología, Planificación Estratégica, a nivel nacional para hacer análisis y planes regionales de incidencia. (Septiembre 2015)
