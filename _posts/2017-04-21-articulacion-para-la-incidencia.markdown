@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Articulación para la incidencia"
+title:  "Articulación para la Incidencia"
 intro: 'Une a distintos sectores de la sociedad para enfrentar un desafío común desde la acción colectiva.'
 date:   2017-04-21 12:00:00 -0300
 category: "Incide"
@@ -29,22 +29,22 @@ team_members:
     img: "/img/laura.png"
     rol: Metodóloga
 ---
-¿Buscas generar iniciativas sociales para solucionar un problema público? ¿Tienes problemas para articular a todos los actores involucrados en el tema? ¿Crees que la colaboración entre agentes es un motor de cambio?
+¿Buscas generar iniciativas sociales para solucionar un problema público? ¿Crees que la colaboración entre agentes es un motor de cambio?
 
 La Articulación para la Incidencia es una herramienta de planificación y seguimiento. Permite reunir a diversos agentes clave para crear colectivamene una estrategia de incidencia a corto plazo, abordando un problema público específico. 
 
-Los contenidos del taller se enfocan en: caracterización de una problemática, definición colaborativa de un sueño, definición de objetivos, análisis de contexto y prospección, elaboración de un plan de trabajo (planificación del proyecto cívico) y la generación de una estrategia de seguimiento.
+Los contenidos del taller se enfocan en: caracterización de un problema, definición colaborativa de un sueño, definición de objetivos, análisis de contexto y prospección, elaboración de un plan de trabajo (planificación del proyecto cívico) y la generación de una estrategia de seguimiento.
 
 ## Etapas
 1. Propuesta: Se establece un tema relevante en el que se busca incidir.
-2. Convocatorias: Se realiza un análisis del contexto sociopolítico y de agentes clave vinculados a este tema y se lanza una convocatoria
-3. Implementación: FCI facilita un taller presencial de dos jornadas (12 hrs), en el cual se caracteriza de forma colaborativa el problema a incidir y se definen una serie de objetivos que dirijan el proceso, y un plan de trabajo compartido.
-4. Resultado: Definición de una estrategia de incidencia a corto plazo y un plan de trabajo para el proyecto cívico.
-5. Implementación del proyecto cívico durante los meses posteriores al taller, para lo cual se entrega una metodología y estructura de seguimiento.
-6. Finalmente, FCI acompaña a las organizaciones que lideran la implementación de lo planificado y termina el proceso con una evaluación y reflexión de lecciones aprendidas.
+2. Convocatoria: Se realiza un análisis del contexto sociopolítico y de agentes clave vinculados a este tema para lanzar una convocatoria.
+3. Implementación: FCI facilita un taller presencial de dos jornadas (12 hrs), para trabajar de manera colaborativa sobre el problema a incidir, definición de los objetivos para dirijir el proceso y un plan de trabajo compartido.
+4. Resultado: Definición de una estrategia de incidencia a corto plazo junto a un plan de trabajo para la realización del proyecto cívico.
+5. Seguimiento: Una vez implementado el proyecto cívico se entrega una metodología y estructura de seguimiento.
+6. Etapa final: FCI acompaña a las organizaciones que lideran la implementación de lo planificado y finaliza el proceso con una evaluación y reflexión de las lecciones aprendidas.
 
-## Experiencias destacada
-- Hemos facilitado LabCívicos (Articulación para la Incidencia) en 12 países de América Latina, y hoy llevamos esta metodología a más contextos y a diferentes áreas. Trabajamos en violencia de género en Honduras, gestión de aguas en Bolivia, violencia armada en juventudes de Colombia, y problema de los desechos en Ecuador y Colombia.
+## Experiencias destacadas
+- Hemos facilitado esta herramienta (LabCívicos) en 12 países de América Latina, y hoy llevamos esta metodología a más contextos y a diferentes áreas. Trabajamos en violencia de género en Honduras, gestión de aguas en Bolivia, violencia armada en juventudes de Colombia, y problema de los desechos en Ecuador y Colombia.
 
 
 Ejemplos de su uso: [labcivico.org/casos](https://labcivico.org/casos.html)
