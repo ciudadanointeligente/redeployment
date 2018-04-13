@@ -37,10 +37,10 @@ Los contenidos del taller se enfocan en: caracterización de un problema, defini
 
 ## Etapas
 1. Propuesta: Se establece un tema relevante en el que se busca incidir.
-2. Convocatoria: Se realiza un análisis del contexto sociopolítico y de agentes clave vinculados a este tema para lanzar una convocatoria.
-3. Implementación: FCI facilita un taller presencial de dos jornadas (12 hrs), para trabajar de manera colaborativa sobre el problema a incidir, definición de los objetivos para dirijir el proceso y un plan de trabajo compartido.
-4. Resultado: Definición de una estrategia de incidencia a corto plazo junto a un plan de trabajo para la realización del proyecto cívico.
-5. Seguimiento: Una vez implementado el proyecto cívico se entrega una metodología y estructura de seguimiento.
+2. Convocatoria: Se realiza un análisis del contexto sociopolítico y de agentes clave vinculados a la temática.
+3. Implementación: FCI facilita un taller presencial de dos jornadas (12 hrs) para trabajar de manera colaborativa sobre el problema a incidir. Además, se definen los objetivos para dirigir el proceso y un plan de trabajo compartido.
+4. Resultado: Se define una estrategia de incidencia a corto plazo junto a un plan de trabajo sobre la realización del proyecto cívico.
+5. Seguimiento: Una vez implementado el proyecto cívico se entrega la metodología y estructura de seguimiento.
 6. Etapa final: FCI acompaña a las organizaciones que lideran la implementación de lo planificado y finaliza el proceso con una evaluación y reflexión de las lecciones aprendidas.
 
 ## Experiencias destacadas
