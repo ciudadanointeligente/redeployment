@@ -38,7 +38,7 @@ Esta herramienta está dirigida a organizaciones de la sociedad civil, instituci
 3. En caso de que la organización lo solicite, FCI puede brindar accesos y asesoría para hacer uso de la plataforma digital Planificación Estratégica. Esto permitirá sistematizar y dar seguimiento a la implementación de la estrategia de incidencia planificada.
 
 ## Experiencias destacadas
-- Trabajamos con la Fundación Techo para Chile para la creación del Área de Incidencia. En esa oportunidad la ONG utilizó nuestra metodología, Planificación Estratégica, a nivel nacional para hacer análisis y planes regionales de incidencia. (Septiembre 2015)
+- Trabajamos con la Fundación Techo para Chile para la creación del Área de Incidencia. En esa oportunidad la ONG utilizó nuestra metodología a nivel nacional para hacer análisis y planes regionales de incidencia. (Septiembre 2015)
 - Hemos desarrollado formaciónes en Chile, Indonesia, México, Nicaragua y Puerto Rico durantes los años 2016 y 2017.
 
 ## Testimonios
