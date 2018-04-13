@@ -37,14 +37,14 @@ Los contenidos que se abordan dentro del proyecto corresponden a incidencia soci
 
 ## Etapas
 
-1. Se abre un proceso de convocatoria amplio.
+1. Se abre un amplio proceso de convocatoria.
 2. Se evalúa exhaustivamente de acuerdo a criterios de diversidad, paridad, trayectoria y potencial para seleccionar a las y los finalistas que participan en la Escuela.
-3. Taller de formación presencial de tres jornadas (18 hrs) - facilitado por FCI - en que un grupo de líderes emergentes recibe capacitación en herramientas de facilitación y tecnológicas, estrategias de incidencia e implementación de la metodología LabCívico.
+3. Taller de formación presencial de tres jornadas (18 hrs) - facilitado por FCI - en que un grupo de líderes emergentes recibe capacitación en herramientas de facilitación y tecnológicas, estrategias de incidencia, e implementación de la metodología LabCívico.
 4. Se preparan y ejecutan los Laboratorios Cívicos que realiza cada participante de la Escuela en su espacio de acción.
 5. Quienes participan de la Escuela reportan avances y comparten aprendizajes para mejorar futuros procesos de incidencia.
 
 ## Experiencias destacadas
-- La primera versión, implementada con el apoyo del National Endowment for Democracy (NED) se desarrolló durante el año 2017 en Bolivia, Colombia, Ecuador y Perú
-- La versión 2018, implementada con el apoyo del National Endowment for Democracy  NED y el International Development Research Center IDRC se realizará en Brasil, Chile, Colombia, Ecuador, Guatemala y México
+- La primera versión, implementada con el apoyo del National Endowment for Democracy (NED), se desarrolló durante el año 2017 en Bolivia, Colombia, Ecuador y Perú
+- La versión 2018, implementada con el apoyo del National Endowment for Democracy  NED y el International Development Research Center IDRC, se realiza en Brasil, Chile, Colombia, Ecuador, Guatemala y México
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/pjhujdZiGfg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
