@@ -33,7 +33,7 @@ team_members:
 ---
 ¿Consideras que la democracia de tu país no es suficientemente representativa? ¿El debate público no refleja las necesidades de la ciudadanía? ¿Quieres que todos los sectores de la sociedad tengan una voz protagónica e incidente?
 
-Vota Inteligente promueve la articulación ciudadana en tiempos de elecciones a través de la información y la participación propositiva. Reuniendo las propuestas de distintos grupos y organizaciones en un solo espacio de participación, buscamos generar una sinergia entre quienes buscan hacer sentir su voz en los procesos electorales, captando el interés de candidatos y candidatas.
+Vota Inteligente promueve la articulación ciudadana en tiempos de elecciones a través de la información y la participación propositiva. La plataforma reune las propuestas de distintos grupos y organizaciones en un solo espacio de participación, buscamos generar una sinergia entre quienes buscan hacer sentir su voz en los procesos electorales, captando el interés de candidatos y candidatas.
 
 Este proyecto cuenta con una plataforma web que contiene perfiles informativos de las candidaturas en competencia; test de afinidad para electores con las propuestas y posiciones de las candidaturas; herramientas para la comparación de las posturas que sostienen las alternativas en competencia; y un espacio para que la ciudadanía haga llegar sus propuestas y las candidaturas se comprometan con ellas de forma pública. Junto con la plataforma, el proyecto contempla metodologías para la elaboración de propuestas, facilitando el involucramiento de más personas y grupos. Además de guías y consejos para la incidencia ciudadana colaborativa y la articulación social.
 
