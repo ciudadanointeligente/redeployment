@@ -48,8 +48,8 @@ La metodología permite identificar aquellas promesas susceptibles de ser medida
 ## Beneficios
 
 1. Entrega información relevante de forma sencilla y clara.
-2. Fomentar el voto informado basado en programas.
-3. Promover el ejercicio responsable de campañas.
-4. Facilitar control de ciudadanía sobre autoridades.
+2. Fomenta el voto informado basado en programas.
+3. Promueve el ejercicio responsable de campañas.
+4. Facilita el control de ciudadanía sobre autoridades.  
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/ntAyD1bU6bU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
