@@ -20,7 +20,7 @@ Nuestra labor abarca toda la región latinoamericana porque enfrentamos desafío
 ## Valores y Principios
 Nuestra visión de sociedad y nuestra forma de actuar se inspiran en valores y principios  que buscamos promover en todos nuestros ámbitos de acción.
 
-Democracia como redistribución del poder: El concepto de democracia engloba las distintas condiciones que permiten que todos los miembros de la sociedad tengan una incidencia equitativa en la toma de decisiones colectivas. Cuando hablamos de mejorar las democracias, nos referimos a reducir las asimetrías de información, poder y también generar espacios de participación. Esto incluye también promover el respeto, la diversidad, la empatía y los derechos humanos.
+Democracia como redistribución del poder: El concepto de democracia engloba las distintas condiciones que permiten que cada integrante de la sociedad tenga una incidencia equitativa en la toma de decisiones colectivas. Cuando hablamos de mejorar las democracias, nos referimos a reducir las asimetrías de información, poder y también generar espacios de participación. Esto incluye también promover el respeto, la diversidad, la empatía y los derechos humanos.
 
 Innovación y creatividad: Nuestro enfoque para adoptar desafíos, plantear soluciones y generar diálogos está basado en la búsqueda de la innovación y el ejercicio creativo. Pensar fuera de la caja y dejar que las ideas nos lleven a nuevas soluciones.
 
