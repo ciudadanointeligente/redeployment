@@ -7,7 +7,7 @@ category: Incide
 highlighted: true
 share_message: Planificación Estratégica
 published: true
-link: "estratega.io"
+link: "http://estratega.io/"
 team_members:
   - team:
     name: Eglé Flores
