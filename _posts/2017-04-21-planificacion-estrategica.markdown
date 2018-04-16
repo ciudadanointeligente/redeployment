@@ -39,7 +39,7 @@ Esta herramienta está dirigida a organizaciones de la sociedad civil, instituci
 
 ## Experiencias destacadas
 - Trabajamos con la Fundación Techo para Chile para la creación del Área de Incidencia. En esa oportunidad la ONG utilizó nuestra metodología a nivel nacional para hacer análisis y planes regionales de incidencia. (Septiembre 2015).
-- Hemos desarrollado formaciónes en Chile, Indonesia, México, Nicaragua y Puerto Rico durantes los años 2016 y 2017.
+- Hemos desarrollado formaciones en Chile, Indonesia, México, Nicaragua y Puerto Rico durantes los años 2016 y 2017.
 
 ## Testimonios
 
