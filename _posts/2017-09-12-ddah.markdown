@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Rendición de cuentas'
-intro: "Metodología y plataforma que mide y visualiza el cumplimiento de promesas de autoridades."
+intro: "Metodología y plataforma web que mide y visualiza el cumplimiento de promesas de autoridades."
 date:   2017-07-12 14:30:00 -0300
 category: "Fiscaliza"
 highlighted: false
