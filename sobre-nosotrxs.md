@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-title: Sobre nosotrxs
+title: Quiénes somos 
 ---
 
 

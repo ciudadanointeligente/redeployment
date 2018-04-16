@@ -32,7 +32,7 @@ team_members:
 
 Rendición de cuentas es una metodología y plataforma que analiza las promesas de gobiernos y autoridades, midiendo el nivel de cumplimiento a lo largo de su mandato. Entrega información clara y comprensible que permite a la ciudadanía ejercer control social sobre las autoridades.
 
-La metodología permite identificar aquellas promesas susceptibles de ser medidas, las áreas temáticas a las que corresponden y el nivel de avance con que cuentan. Esta plataforma permite visualizar de manera amigable y cercana los avances en el cumplimiento de las promesas. Además, puede ser utilizada para medir el cumplimiento o avance de distintos tipos de iniciativas en diversas áreas temáticas, para distinto tipo de autoridades.
+La metodología permite identificar aquellas promesas susceptibles de ser medidas, las áreas temáticas a las que corresponden y el nivel de avance con que cuentan. Esta plataforma facilita la visualización de manera amigable y cercana los avances en el cumplimiento de las promesas. Además, puede ser utilizada para medir el cumplimiento o avance de distintos tipos de iniciativas en diversas áreas temáticas, para distinto tipo de autoridades.
 
 ## Etapas
 1. Identificación de compromisos o iniciativas a medir:  Se identifican compromisos o iniciativas específicas susceptibles de ser medidas.
@@ -44,6 +44,7 @@ La metodología permite identificar aquellas promesas susceptibles de ser medida
 ## Han utilizado esta herramienta
 - UYCheck (Uruguay): [deldichoalhecho.com.uy](http://deldichoalhecho.com.uy)
 - Fiscalización del cumplimiento de los primeros 100 días de gobierno de la prefectura de Río de Janeiro, Brasil: [ditoefeito.cidadaniainteligente.org](https://ditoefeito.cidadaniainteligente.org/)
+- Seguimiento del cumplimiento de los programas y discursos de los dos últimos gobiernos de Chile [deldichoalhecho.cl](https://deldichoalhecho.cl/)
 
 ## Beneficios
 
