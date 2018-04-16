@@ -12,7 +12,7 @@ single_image:
   - img: "/img/media-naranja01.png"
   - img: "/img/preguntales.png"
   - img: "/img/propuestas-ciudadanas.png"
-link: "votainteligente.org"
+link: "https://votainteligente.cl/"
 team_members:
   - team:
     name: Manuel Barros
