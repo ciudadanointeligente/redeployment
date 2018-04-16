@@ -28,7 +28,7 @@ team_members:
     img: "/img/martin.png"
     rol: Metodólogo
 ---
-¿Crees que es importante que los niños, niñas y adolescentes (NNA) tengan experiencias participativas amigables para su formación como ciudadanxs? ¿Buscas desarrollar valores y habilidades ciudadanas desde temprana edad? ¿Crees que es posible hacer del ejercicio cívico algo más atractivo para quienes serán el futuro de nuestras sociedades?
+¿Crees que es importante que los niños, niñas y adolescentes (NNA) tengan experiencias participativas amigables para su formación como ciudadanas y ciudadanos? ¿Buscas desarrollar valores y habilidades ciudadanas desde temprana edad? ¿Crees que es posible hacer del ejercicio cívico algo más atractivo para quienes serán el futuro de nuestras sociedades?
 
 La metodología de formación ciudadana para NNA promueve la participación con instancias de diálogo y trabajo colaborativo, para que NNA identifiquen diversas problemáticas de su interés, ya sean nacionales o locales, e ideen propuestas para resolverlas. Estas propuestas serán visibilizadas en una plataforma digital, con la posibilidad de reunir apoyos ciudadanos y ser acogidas e implementadas por la autoridad pertinente (centro de estudiantes, dirección del establecimiento educacional, gobierno local, presidencia, etc.).
 
