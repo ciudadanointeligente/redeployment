@@ -44,6 +44,7 @@ La metodología permite identificar aquellas promesas susceptibles de ser medida
 ## Han utilizado esta herramienta
 - UYCheck (Uruguay): [deldichoalhecho.com.uy](http://deldichoalhecho.com.uy)
 - Fiscalización del cumplimiento de los primeros 100 días de gobierno de la prefectura de Río de Janeiro, Brasil: [ditoefeito.cidadaniainteligente.org](https://ditoefeito.cidadaniainteligente.org/)
+- Seguimiento del cumplimiento de los programas y discursos de los dos últimos gobiernos de Chile [deldichoalhecho.cl](https://deldichoalhecho.cl/)
 
 ## Beneficios
 
