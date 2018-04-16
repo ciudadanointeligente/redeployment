@@ -30,9 +30,11 @@ team_members:
     img: "/img/felipe.png"
     rol: Desarrollador
 ---
-En período de elecciones, muchas personas quieren la atención de la ciudadanía. ¿Cómo podemos comparar lo que nos ofrece cada candidatura?
+En período de elecciones, muchas personas quieren la atención de la ciudadanía. ¿Cómo podemos comparar lo que nos ofrece cada candidatura? ¿Cómo decidir cuando muchos agentes buscan persuadir a la ciudadanía?
 
-Perfiles Transparentes es una herramienta que permite a la ciudadanía conocer las diferentes candidaturas, a través de una batería de preguntas y respuestas determinadas. Esto con el objetivo de que cada usuarix pueda considerar y comprender cuáles son más a fines a sus ideas o intereses. Del mismo modo, esta tecnología permite a las candidaturas presentar información sobre su sitio web, campaña, propuesta de programa, antecedentes, cargos públicos y diferentes links para acceder de manera rápida a sus redes sociales.
+Perfiles Transparentes es una herramienta que permite a la ciudadanía conocer las diferentes candidaturas, a través de una batería de preguntas y respuestas determinadas. Esto con el objetivo de que cada persona pueda considerar y comprender cuáles son más a fines a sus ideas o intereses. Esta tecnología, además, permite a las candidaturas presentar información sobre su sitio web, campaña, propuesta de programa, antecedentes, cargos públicos y diferentes links para acceder de manera rápida a sus redes sociales.
+
+Asimismo, esta herramienta cuenta con un juego de la “media naranja” que entrega el nivel de compatibilidad entre usuarios/as y personas, candidaturas o entidades, haciendo dinámica y atractiva la participación ciudadana y la toma de decisiones. 
 
 
 ## Etapas
