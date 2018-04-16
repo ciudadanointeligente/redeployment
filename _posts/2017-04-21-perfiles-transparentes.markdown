@@ -39,7 +39,7 @@ Perfiles Transparentes es una herramienta que permite a la ciudadanía conocer l
 Duración aproximada: 3 meses (según cantidad de información a recolectar y publicar)
 1. Definiciones estéticas del sitio.
 2. Definición de las preguntas a realizar.
-3. Recolección de posiciones políticas de cada candidaturas.
+3. Recolección de posiciones políticas de cada candidatura.
 4. Posicionamiento de la plataforma en diferentes medios de comunicación.
 
 ## Han utilizado esta herramienta
