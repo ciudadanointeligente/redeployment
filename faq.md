@@ -34,12 +34,12 @@ Porque juntos y juntas somos más fuertes, creemos que problemas complejos requi
 
 ### 8. Soy una empresa y quiero mejorar mi transparencia, ¿me pueden ayudar?
 
-Desde Ciudadano Inteligente creemos que para avanzar verdaderamente en transparencia, todos los actores de la sociedad deben participar en este esfuerzo. Aquí encontrarás herramientas que están creadas para apoyar a todo tipo de instituciones en su transparencia, haciéndola amigable y visualmente atractiva. 
+Desde Ciudadano Inteligente creemos que para avanzar verdaderamente en transparencia, todos los agentes de la sociedad deben participar en este esfuerzo. Aquí encontrarás herramientas que están creadas para apoyar a todo tipo de instituciones en su transparencia, haciéndola amigable y visualmente atractiva. 
 
 ### 9. Soy un medio de comunicación, ¿qué puedo hacer con sus herramientas?
 
-Ofrecemos herramientas que te permitirán hacer más atractivos y comprensibles los contenidos que publicas. Estas herramientas se pueden utilizar para facilitar la visualización de información compleja o para incluir a tus lectores en la creación de los contenidos de forma interactiva. 
+Ofrecemos herramientas que te permitirán hacer más atractivos y comprensibles los contenidos que publicas. Estas herramientas pueden utilizarse para facilitar la visualización de información compleja o para incluir a tus lectores en la creación de los contenidos de forma interactiva. 
 
 ### 10. Si son una organización no gubernamental  sin fines de lucro, ¿por qué cobran por estos servicios?
 
-El costo asociado a nuestras herramientas no tiene fines de lucro, sino que busca retribuir de forma justa el trabajo que las y los miembros de Ciudadano Inteligente destinan en el desarrollo de nuevos proyectos. Esto nos permite sostener a la Fundación en el largo plazo y continuar creando nuevos proyectos y herramientas que apoyen en el fortalecimiento de las democracias en Latinoamérica.
+El costo asociado a nuestras herramientas no tiene fines de lucro, sino que busca retribuir de forma justa el trabajo del equipo de Ciudadano Inteligente destina en el desarrollo de nuevos proyectos. Esto nos permite sostener a la Fundación en el largo plazo y continuar creando nuevos proyectos y herramientas que apoyen en el fortalecimiento de las democracias en Latinoamérica.

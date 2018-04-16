@@ -30,18 +30,10 @@ team_members:
 ---
 ¿Crees que es importante que los niños, niñas y adolescentes (NNA) tengan experiencias participativas amigables para su formación como ciudadanxs? ¿Buscas desarrollar valores y habilidades ciudadanas desde temprana edad? ¿Crees que es posible hacer del ejercicio cívico algo más atractivo para quienes serán el futuro de nuestras sociedades?
 
-Metodología de formación ciudadana para NNA promueve la participación y una instancia de diálogo y trabajo colaborativo, para que NNA identifiquen problemáticas de su interés, ya sean nacionales o locales, e ideen propuestas para resolverlas. Estas propuestas serán visibilizadas en una plataforma digital, con la posibilidad de reunir apoyos ciudadanos y ser acogidas e implementadas por la autoridad pertinente (centro de estudiantes, dirección del establecimiento educacional, gobierno local, presidencia, etc.).
+La metodología de formación ciudadana para NNA promueve la participación con instancias de diálogo y trabajo colaborativo, para que NNA identifiquen diversas problemáticas de su interés, ya sean nacionales o locales, e ideen propuestas para resolverlas. Estas propuestas serán visibilizadas en una plataforma digital, con la posibilidad de reunir apoyos ciudadanos y ser acogidas e implementadas por la autoridad pertinente (centro de estudiantes, dirección del establecimiento educacional, gobierno local, presidencia, etc.).
 
-## Etapas
-1. Actividad “rompe hielo”: NNA desarrollan actividades que permiten iniciar procesos de reflexión y diálogo.
-2. Problemas y Propuestas: NNA identifican en conjunto problemas comunes y sus posibles soluciones, así como los responsables de implementarlas (curso, profesores, directivos, apoderados, autoridades políticas, etcétera).
-3. Campaña: NNA elaboran materiales gráficos y artísticos que dan color a sus propuestas.
-4. Compromiso: NNA responden a la pregunta ¿Cómo puedes aportar tú a la solución del problema?.
-5. Entrega: propuestas son subidas a web con las de otros NNA y son conocidas por tomadores de decisiones.
-
-
-## Han utilizado esta herramienta
-- Escuelas y cursos durante elecciones Presidenciales y Parlamentarias en Chile (2017)
+## Experiencia destacada
+- 88 colegios de Chile utilizaron el proyecto durante las elecciones Presidenciales y Parlamentarias en el país (2017). Participaron 836 NNA que crearon 211 propuestas, logrando 34 compromisos de candidatas y candidatos de los comisiones electorales. 
 
 ## Beneficios
 1. Descubrimiento y la valorización de participación por NNA.

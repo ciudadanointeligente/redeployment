@@ -38,7 +38,7 @@ Los contenidos que se abordan dentro del proyecto corresponden a incidencia soci
 ## Etapas
 
 1. Se abre un amplio proceso de convocatoria.
-2. Se evalúa exhaustivamente de acuerdo a criterios de diversidad, paridad, trayectoria y potencial para seleccionar a las y los finalistas que participan en la Escuela.
+2. Se evalúa exhaustivamente, de acuerdo a criterios de diversidad, paridad, trayectoria y potencial para seleccionar, a las y los finalistas que participan en la Escuela.
 3. Taller de formación presencial de tres jornadas (18 hrs) - facilitado por FCI - en que un grupo de líderes emergentes recibe capacitación en herramientas de facilitación y tecnológicas, estrategias de incidencia, e implementación de la metodología LabCívico.
 4. Se preparan y ejecutan los Laboratorios Cívicos que realiza cada participante de la Escuela en su espacio de acción.
 5. Quienes participan de la Escuela reportan avances y comparten aprendizajes para mejorar futuros procesos de incidencia.
