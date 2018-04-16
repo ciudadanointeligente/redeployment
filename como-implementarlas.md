@@ -17,5 +17,5 @@ La mayoría de nuestras herramientas se implementan de una de estas tres formas:
 Si quieres implementar nuestras herramientas, escríbenos un mail y organizaremos una llamada para conocernos, conocer tus necesidades y ofrecerte la mejor solución.
 
 <div class="text-right">
-  <a href="mailto:info@ciudadano" class="btn btn-primary bg-participacion-ciudadana">Contáctanos</a>
+  <a href="{{ site.baseurl }}#contact" class="btn btn-primary bg-participacion-ciudadana">Contáctanos</a>
 </div>

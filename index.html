@@ -11,11 +11,10 @@ published: true
   {% assign destacadas = site.posts | where:"highlighted",true %}
   {% assign counter = 1 %}
 
-  {% include blogfeed.html %}
-
-  {% include contact.html %}
 
   {% include users.html %}
+  {% include contact.html %}
+  {% include blogfeed.html %}
 
   {% include map.html %}
 
