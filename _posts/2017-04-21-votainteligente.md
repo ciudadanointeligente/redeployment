@@ -40,7 +40,7 @@ Este proyecto contempla una plataforma con perfiles informativos de las candidat
 Nuestras herramientas se pueden adaptar a distintos procesos electorales, a nivel nacional, local e incluso de organizaciones o instituciones específicas, facilitando la participación activa e informada de la ciudadanía y de la comunidad.
 
 ## Etapas
-Duración aproximada: 8 meses (según complejidad del desafío).
+Duración aproximada: tres meses (según complejidad del desafío).
 1. Capacitaciones sobre el uso del sitio y herramientas metodológicas.
 2. Adaptación de metodologías y materiales para la generación de propuestas, incidencia ciudadana y formación cívica al contexto específico.
 3. Genereración de perfiles de candidaturas e instalación de herramienta para generación de propuestas.
