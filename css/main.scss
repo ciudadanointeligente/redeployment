@@ -97,7 +97,7 @@ h2 {
 }
 
 h3 {
-  font-size: calc(0.6vw + 1rem);
+  font-size: calc(0.8vw + 0.8rem);
   line-height: calc(1vw + 1.6rem);
 }
 
@@ -222,7 +222,7 @@ h4 {
 // map
 
 #projects-map {
-  margin: 0 -15px;
+  margin: 0 -15px calc(-2vw + -2rem);
   position: relative;
 }
 
