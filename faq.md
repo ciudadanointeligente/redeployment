@@ -145,3 +145,7 @@ title: Preguntas frecuentes
     </div>
   </div>
 </div>
+
+<div class="text-right mt-30">
+<h5>¿Tienes más preguntas? <a href="{{ site.baseurl }}#contact">contáctanos</a></h5>
+</div>
