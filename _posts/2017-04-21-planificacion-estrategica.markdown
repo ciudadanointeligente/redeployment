@@ -26,7 +26,7 @@ team_members:
     img: "/img/laura.png"
     rol: Metodóloga
 ---
-¿Tienes objetivos de acción claros pero no logras cumplirlos? ¿No logras conectar a tu organización con actores sociales clave? ¿Tu presupuesto organizacional es escaso y necesitas optimizarlo de la mejor manera? ¿Tus flujos de comunicación interna y externa trabajan en función de tu meta institucional?
+¿Tienes objetivos de acción claros pero no logras cumplirlos? ¿No logras conectar a tu organización con actores sociales clave? ¿Tu presupuesto organizacional es escaso y necesitas optimizarlo de la mejor manera? ¿Tus flujos de comunicación interna y externa no trabajan en función de tu meta institucional?
 
 Planificación Estratégica comparte criterios para la caracterización de un problema público y elementos para la generación y priorización de objetivos que contribuyan a su solución. Incluye también herramientas de mapeo de actores, así como de seguimiento y evaluación de procesos.
 
