@@ -14,7 +14,7 @@ title: Preguntas frecuentes
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
-        Ciudadano Inteligente ofrece herramientas para fortalecer a organizaciones de la sociedad civil, activistas, colectivos y a la ciudadanía en general. También  ofrecemos herramientas para que gobiernos centrales, locales y empresas puedan vincularse mejor con la ciudadanía. Además, ponemos nuestras herramientas a disposición de organismos internacionales que contribuyan a fortalecer la sociedad civil.
+        Ciudadano Inteligente ofrece herramientas para fortalecer a organizaciones de la sociedad civil, activistas, colectivos y a la ciudadanía en general. También  ofrecemos herramientas para que gobiernos centrales, locales y empresas puedan vincularse mejor con la ciudadanía. Además, ponemos nuestras herramientas a disposición de organismos internacionales que contribuyen a fortalecer la sociedad civil.
       </div>
     </div>
   </div>
