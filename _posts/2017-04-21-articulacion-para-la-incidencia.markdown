@@ -47,4 +47,4 @@ Los contenidos del taller se enfocan en: caracterización de un problema, defini
 - Hemos facilitado esta herramienta (LabCívicos) en 12 países de América Latina, y hoy llevamos esta metodología a más contextos y a diferentes áreas. Trabajamos en violencia de género en Honduras, gestión de aguas en Bolivia, violencia armada en juventudes de Colombia, y problema de los desechos en Ecuador y Colombia.
 
 
-Ejemplos de su uso: [labcivico.org/casos](https://labcivico.org/casos.html)
+Ejemplos de su uso: [labcivico.org/casos](https://labcivico.org/casos.html){:target="_blank"}

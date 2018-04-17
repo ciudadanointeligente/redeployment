@@ -58,6 +58,6 @@ Duración aproximada: tres meses (según complejidad del desafío).
 3. Incidencia ciudadana directa sobre candidaturas y debate electoral.
 4. Transparencia sobre candidaturas, sus antecedentes, posiciones políticas y compromisos con la ciudadana.
 
-[Post sobre el proyecto](https://blogs.iadb.org/abierto-al-publico/2018/01/18/vota-inteligente-plataforma-participativa-abre-proceso-electoral/,)
+[Post sobre el proyecto](https://blogs.iadb.org/abierto-al-publico/2018/01/18/vota-inteligente-plataforma-participativa-abre-proceso-electoral/,){:target="_blank"}
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/gPRqUpawUFo?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
