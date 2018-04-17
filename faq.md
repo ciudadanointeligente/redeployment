@@ -3,7 +3,7 @@ layout: page
 title: Preguntas frecuentes
 ---
 
-### ¿Qué servicios ofrece Fundación Ciudadano Inteligente?
+### 1. ¿Qué servicios ofrece Fundación Ciudadano Inteligente?
 Ciudadano Inteligente ofrece herramientas para fortalecer a organizaciones de la sociedad civil, activistas, colectivos y a la ciudadanía en general. También  ofrecemos herramientas para que gobiernos centrales, locales y empresas puedan vincularse mejor con la ciudadanía. Además, ponemos nuestras herramientas a disposición de organismos internacionales que contribuyan a fortalecer la sociedad civil.
 
 Ciudadano Inteligente no sólo ofrece herramientas digitales, cuyo código es abierto, y que por tanto pueden replicarse de manera gratuita, sino que también ofrecemos todo el proceso que acompaña la implementación de un proyecto. Es decir, podemos colaborar en el diseño de la iniciativa, asesoría metodológica, desarrollo técnico y programación, experiencia de usuario, capacitaciones, diseño gráfico, entre otros. Esto hace que nuestras herramientas sean adaptables a distintas necesidades y contextos.
