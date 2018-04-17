@@ -20,7 +20,7 @@ Nuestros desafíos comenzaron con la implementación de leyes de transparencia y
 
 Con el tiempo, hemos complementado nuestras herramientas tecnológicas con conocimientos metodológicos y comunicacionales que nos ayudan a reforzar procesos de cambio social desde la sociedad civil y ciudadanía. Así como ayudar en la implementación de innovaciones en el aparato público.
 
-Queremos llegar con nuestro trabajo a toda la región latinoamericana para enfrentar juntos nuestros desafíos comunes porque sabemos que en esta lucha, juntas y juntos somos más fuertes.
+Queremos llegar con nuestro trabajo a toda la región latinoamericana para enfrentar desafíos comunes porque sabemos que en esta lucha, juntas y juntos somos más fuertes.
 
 ## Valores y Principios
 
