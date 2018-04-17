@@ -26,7 +26,7 @@ Queremos llegar con nuestro trabajo a toda la región latinoamericana para enfre
 
 Nuestra visión de sociedad y nuestra forma de actuar se inspiran en valores y principios  que buscamos promover en todos nuestros ámbitos de acción.
 
-Democracia como redistribución del poder: creemos en que cada integrante de la sociedad tenga la mismas oportunidades para incidir en la toma de decisiones democráticas, sin importar su edad, género, religión, origen, etnia o formación. 
+Democracia como redistribución del poder: creemos en que cada integrante de la sociedad tenga las mismas oportunidades para incidir en la toma de decisiones democráticas, sin importar su edad, género, religión, origen, etnia o formación. 
 
 Respeto Derechos Humanos: el desarrollo de nuestras democracias y países deben apuntar al mayor respeto y desarrollo de los derechos humanos de todos sus habitantes.
 
