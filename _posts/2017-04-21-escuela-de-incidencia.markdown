@@ -6,7 +6,7 @@ date:   2017-04-21 12:00:00 -0300
 category: "Incide"
 highlighted: true
 share_message: "Escuela de Incidencia"
-link: "escueladeincidencia.org"
+link: "https://escueladeincidencia.org"
 team_members:
   - team:
     name: Eglé Flores

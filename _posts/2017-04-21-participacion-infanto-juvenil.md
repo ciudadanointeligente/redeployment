@@ -9,7 +9,7 @@ share_message: "Participación Infanto Juvenil"
 single_image:
   - img: "/img/propuestas-ciudadanas.png"
     caption:
-link: "levantalamano.cl"
+link: "https://levantalamano.cl"
 team_members:
   - team:
     name: Lissett García
@@ -33,7 +33,7 @@ team_members:
 La metodología de formación ciudadana para NNA promueve la participación con instancias de diálogo y trabajo colaborativo, para que NNA identifiquen diversas problemáticas de su interés, ya sean nacionales o locales, e ideen propuestas para resolverlas. Estas propuestas serán visibilizadas en una plataforma digital, con la posibilidad de reunir apoyos ciudadanos y ser acogidas e implementadas por la autoridad pertinente (centro de estudiantes, dirección del establecimiento educacional, gobierno local, presidencia, etc.).
 
 ## Experiencia destacada
-- 88 colegios de Chile utilizaron el proyecto durante las elecciones Presidenciales y Parlamentarias en el país (2017). Participaron 836 NNA que crearon 211 propuestas, logrando 34 compromisos de candidatas y candidatos de los comisiones electorales. 
+- 88 colegios de Chile utilizaron el proyecto durante las elecciones Presidenciales y Parlamentarias en el país (2017). Participaron 836 NNA que crearon 211 propuestas, logrando 34 compromisos de candidatas y candidatos de los comisiones electorales.
 
 ## Beneficios
 1. Descubrimiento y la valorización de participación por NNA.

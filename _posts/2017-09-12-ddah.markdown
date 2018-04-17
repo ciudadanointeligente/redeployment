@@ -9,7 +9,7 @@ share_message: "Rendición de cuentas"
 single_image:
   - img: "/img/rendicion-de-cuentas.png"
     caption:
-link: "deldichoalhecho.cl"
+link: "https://deldichoalhecho.cl"
 team_members:
   - team:
     name: Laura Encalada

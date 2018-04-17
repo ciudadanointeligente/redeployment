@@ -11,7 +11,7 @@ single_image:
   - img: "/img/media-naranja01.png"
   - img: "/img/media-naranja02.png"
   - img: "/img/frente-a-frente.png"
-link: "votainteligente.cl"
+link: "https://votainteligente.cl"
 team_members:
   - team:
     name: Manuel Barros
@@ -34,7 +34,7 @@ En período de elecciones, muchas personas quieren la atención de la ciudadaní
 
 Perfiles Transparentes es una herramienta que permite a la ciudadanía conocer las diferentes candidaturas, a través de una batería de preguntas y respuestas determinadas. Esto con el objetivo de que cada persona pueda considerar y comprender cuáles son más a fines a sus ideas o intereses. Esta tecnología, además, permite a las candidaturas presentar información sobre su sitio web, campaña, propuesta de programa, antecedentes, cargos públicos y diferentes links para acceder de manera rápida a sus redes sociales.
 
-Asimismo, esta herramienta cuenta con un juego de la “media naranja” que entrega el nivel de compatibilidad entre usuarios/as y personas, candidaturas o entidades, haciendo dinámica y atractiva la participación ciudadana y la toma de decisiones. 
+Asimismo, esta herramienta cuenta con un juego de la “media naranja” que entrega el nivel de compatibilidad entre usuarios/as y personas, candidaturas o entidades, haciendo dinámica y atractiva la participación ciudadana y la toma de decisiones.
 
 
 ## Etapas
