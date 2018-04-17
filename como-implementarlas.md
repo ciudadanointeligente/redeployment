@@ -7,9 +7,9 @@ En Ciudadano Inteligente queremos que más personas, organizaciones, institucion
 
 La mayoría de nuestras herramientas se implementan de una de estas tres formas:
 
-1. **Replicación digital:** Para replicar herramientas digitales -nuestras plataformas web- puedes tomar gratuitamente los códigos que hemos desarrollado e implementarlos y adaptarlos según tus necesidades. Todos están disponibles en https://github.com/ciudadanointeligente
+1. **Replicación digital:** Para replicar herramientas digitales -nuestras plataformas web- puedes tomar gratuitamente los códigos que hemos desarrollado e implementarlos y adaptarlos según tus necesidades. Todos están disponibles en [https://github.com/ciudadanointeligente](https://github.com/ciudadanointeligente)
 
-2. **Servicio personalizado:** Si necesitas herramientas que exceden lo digital,como metodologías, capacitaciones, apoyo en coordinación, programación web, diseño, experiencia de usuario, entre otros, podemos ofrecerte un servicio personalizado que adecúa nuestras herramientas a tus necesidades. Así podemos acompañar la implementación de tu proyecto, asegurando su ejecución correcta y completa.
+2. **Servicio personalizado:** Si necesitas herramientas que exceden lo digital, como metodologías, capacitaciones, apoyo en coordinación, programación web, diseño, experiencia de usuario, entre otros, podemos ofrecerte un servicio personalizado que adecúa nuestras herramientas a tus necesidades. Así podemos acompañar la implementación de tu proyecto, asegurando su ejecución correcta y completa.
 
 3. **Alianzas:** Si los objetivos de tu proyecto se alinean con los de Ciudadano Inteligente, podemos explorar la posibilidad de aliarnos para trabajar en conjunto y buscar el financiamiento adecuado a las necesidades que identifiquemos. 
 
