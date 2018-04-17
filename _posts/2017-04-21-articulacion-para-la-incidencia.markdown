@@ -31,7 +31,7 @@ team_members:
 ---
 ¿Buscas generar iniciativas sociales para solucionar un problema público? ¿Crees que la colaboración entre agentes es un motor de cambio?
 
-La Articulación para la Incidencia es una herramienta de planificación y seguimiento. Permite reunir a diversos agentes clave para crear colectivamene una estrategia de incidencia a corto plazo, abordando un problema público específico.
+La Articulación para la Incidencia es una herramienta de planificación y seguimiento. Permite reunir a diversos agentes clave para crear colectivamente una estrategia de incidencia a corto plazo, abordando un problema público específico.
 
 Los contenidos del taller se enfocan en: caracterización de un problema, definición colaborativa de un sueño, definición de objetivos, análisis de contexto y prospección, elaboración de un plan de trabajo (planificación del proyecto cívico) y la generación de una estrategia de seguimiento.
 
