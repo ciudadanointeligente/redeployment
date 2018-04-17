@@ -28,7 +28,7 @@ team_members:
     img: "/img/octavio.png"
     rol: Asesor Jurídico
 ---
-¿Cuanto cumplen las autoridades? ¿Qué puede hacer la ciudadanía para que lo hagan? Para construir una democracia plena, la ciudadanía requiere de herramientas para fiscalizar la labor de gobernantes y autoridades, así como el cumplimiento de sus compromisos. ¿Cómo, sino, podremos premiar a quienes cumplieron y hacer responsables a quienes no?
+¿Cuánto cumplen las autoridades? ¿Qué puede hacer la ciudadanía para que lo hagan? Para construir una democracia plena, la ciudadanía requiere de herramientas para fiscalizar la labor de gobernantes y autoridades, así como el cumplimiento de sus compromisos. ¿Cómo, sino, podremos premiar a quienes cumplieron y hacer responsables a quienes no?
 
 Rendición de cuentas es una metodología y plataforma que analiza las promesas de gobiernos y autoridades, midiendo el nivel de cumplimiento a lo largo de su mandato. Entrega información clara y comprensible que permite a la ciudadanía ejercer control social sobre las autoridades.
 
