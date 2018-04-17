@@ -49,12 +49,12 @@ title: Preguntas frecuentes
   <div class="card">
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
           No cuento con los recursos para financiar sus herramientas, ¿qué puedo hacer?
         </button>
       </h5>
     </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+    <div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
         No dudes en contarnos sobre tu proyecto para ver si existen alternativas de colaboración. Si no podemos ayudarte, al menos podremos guiarte sobre cómo podrías encontrar apoyo para tu proyecto.
       </div>
@@ -63,12 +63,12 @@ title: Preguntas frecuentes
   <div class="card">
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
           Me interesan sus herramientas pero no se ajustan a mis necesidades, ¿qué puedo hacer?
         </button>
       </h5>
     </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+    <div id="collapseFive" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
         Si nuestras herramientas no se ajustan a lo que necesitas podemos adaptarlas a tu medida o bien crear una nueva herramienta. No dudes en contactarnos para comprender mejor tus necesidades y ver si podremos co-crear una solución.
       </div>
@@ -77,12 +77,12 @@ title: Preguntas frecuentes
   <div class="card">
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#Six" aria-expanded="false" aria-controls="Six">
           ¿Qué significa código abierto?
         </button>
       </h5>
     </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+    <div id="Six" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
         Los softwares de código abierto son aquellos que se desarrollan y distribuyen bajo una licencia que permite su uso, modificación y redistribución. De esta forma están disponibles a cualquier usuario de forma gratuita.
       </div>
@@ -91,12 +91,12 @@ title: Preguntas frecuentes
   <div class="card">
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
           No pertenezco a una organización, ¿cómo puedo aplicar a una herramienta?
         </button>
       </h5>
     </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+    <div id="collapseSeven" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
         Porque juntos y juntas somos más fuertes, creemos que problemas complejos requieren soluciones colectivas. Para lograr el éxito de un proyecto preferimos entregar nuestras herramientas a equipos de personas que puedan ejecutar la coordinación, levantamiento de información, difusión y todas las acciones necesarias que involucran alimentar, mantener y dar a conocer un proyecto. ¡Recomendamos fuertemente aliarte con otros y otras para concretar tu iniciativa!
       </div>
@@ -105,12 +105,12 @@ title: Preguntas frecuentes
   <div class="card">
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
           Soy una empresa y quiero mejorar mi transparencia, ¿me pueden ayudar?
         </button>
       </h5>
     </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+    <div id="collapseEight" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
         Desde Ciudadano Inteligente creemos que para avanzar verdaderamente en transparencia, todos los agentes de la sociedad deben participar en este esfuerzo. Aquí encontrarás herramientas que están creadas para apoyar a todo tipo de instituciones en su transparencia, haciéndola amigable y visualmente atractiva.
       </div>
@@ -119,12 +119,12 @@ title: Preguntas frecuentes
   <div class="card">
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
           Soy un medio de comunicación, ¿qué puedo hacer con sus herramientas?
         </button>
       </h5>
     </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+    <div id="collapseNine" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
         Ofrecemos herramientas que te permitirán hacer más atractivos y comprensibles los contenidos que publicas. Estas herramientas pueden utilizarse para facilitar la visualización de información compleja o para incluir a tus lectores en la creación de los contenidos de forma interactiva.
       </div>
@@ -133,12 +133,12 @@ title: Preguntas frecuentes
   <div class="card">
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#Ten" aria-expanded="false" aria-controls="Ten">
           Si son una organización no gubernamental  sin fines de lucro, ¿por qué cobran por estos servicios?
         </button>
       </h5>
     </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+    <div id="Ten" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
         El costo asociado a nuestras herramientas no tiene fines de lucro, sino que busca retribuir de forma justa el trabajo del equipo de Ciudadano Inteligente destina en el desarrollo de nuevos proyectos. Esto nos permite sostener a la Fundación en el largo plazo y continuar creando nuevos proyectos y herramientas que apoyen en el fortalecimiento de las democracias en Latinoamérica.
       </div>
