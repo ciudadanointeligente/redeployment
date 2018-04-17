@@ -29,11 +29,11 @@ team_members:
     img: "/img/martin.png"
     rol: Metodólogo
 ---
-¿Buscas generar cambios sociales potenciando a líderes de tu comunidad? ¿Crees que lxs líderes latinoamericanos necesitan más herramientas para apoyar a sus comunidades? ¿Sientes que trabajar con otras personas se logran resultados más inclusivos y representativos?
+¿Quieres generar cambios sociales potenciando a líderes de tu comunidad? ¿Crees que líderes latinoamericanos necesitan más herramientas para apoyar a sus comunidades? ¿Sientes que trabajar con otras personas se logran resultados más inclusivos y representativos?
 
-La Escuela de Incidencia es una instancia de formación que busca fomentar el liderazgo colaborativo y participativo de nuevas generaciones  para lograr cambios sociales, a través de procesos de incidencia en políticas públicas.
+La Escuela de Incidencia es una instancia de formación que busca fomentar el liderazgo colaborativo y participativo de nuevas generaciones  para lograr cambios sociales a través de la incidencia en políticas públicas.
 
-Los contenidos que se abordan dentro del proyecto corresponden a incidencia social y política, modelos de facilitación de procesos y metodologías de trabajo colaborativo.
+Los contenidos que se abordan dentro del proyecto corresponden a incidencia social y política, estrategias de facilitación de procesos y metodologías de trabajo colaborativo.
 
 ## Etapas
 
