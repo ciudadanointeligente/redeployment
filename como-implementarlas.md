@@ -11,8 +11,7 @@ La mayoría de nuestras herramientas se implementan de una de estas tres formas:
 
 2. **Servicio personalizado:** Si necesitas herramientas que exceden lo digital,como metodologías, capacitaciones, apoyo en coordinación, programación web, diseño, experiencia de usuario, entre otros, podemos ofrecerte un servicio personalizado que adecúa nuestras herramientas a tus necesidades. Así podemos acompañar la implementación de tu proyecto, asegurando su ejecución correcta y completa.
 
-3. **Alianzas:** Si los objetivos de tu proyecto se alinean con los de Ciudadano Inteligente, podemos explorar la posibilidad de aliarnos para trabajar en conjunto y buscar el financiamiento adecuado a las necesidades que identifiquemos. Es una alternativa para proyectos de mediano y largo plazo, pues hay que diseñar el proyecto y postular a distintas opciones de financiamiento.
-
+3. **Alianzas:** Si los objetivos de tu proyecto se alinean con los de Ciudadano Inteligente, podemos explorar la posibilidad de aliarnos para trabajar en conjunto y buscar el financiamiento adecuado a las necesidades que identifiquemos. 
 
 Si quieres implementar nuestras herramientas, escríbenos un mail y organizaremos una llamada para conocernos, conocer tus necesidades y ofrecerte la mejor solución.
 
