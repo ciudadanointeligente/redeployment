@@ -6,10 +6,37 @@
         <form action="https://formspree.io/herramientas@ciudadanointeligente.org" method="POST">
           <div class="row">
             <div class="col-sm-12 col-md-3">
-              <input type="email" name="_replyto" placeholder="Tu email">
+              <select name="org" placeholder="Tipo de organización">
+                <option value="particular">Persona particular</option>
+                <option value="sociedad-civil">Agrupación de la sociedad civil</option>
+                <option value="ong">ONG</option>
+                <option value="organismo-internacional">Organismo Internacional</option>
+                <option value="empresa">Empresa</option>
+                <option value="centro-de-pensamiento">Centro de pensamiento</option>
+                <option value="otro">otro</option>
+              </select>
             </div>
+            <div class="col-sm-12 col-md-3">
+              <input name="org-name" placeholder="Nombre organización"></input>
+            </div>
+            <div class="col-sm-12 col-md-3">
+              <select name="org-size">
+                <option value="volvo">Volvo</option>
+                <option value="saab">Saab</option>
+                <option value="fiat">Fiat</option>
+                <option value="audi">Audi</option>
+              </select>
+            </div>
+            <div class="col-sm-12 col-md-3">
+              <input name="funding" placeholder="Capacidad de financiamiento">
+            </div>
+          </div>
+          <div class="row">
             <div class="col-sm-12 col-md-6">
-              <input name="message" placeholder="Tu mensaje"></input>
+              <input name="message" placeholder="Tu mensaje" required></input>
+            </div>
+            <div class="col-sm-12 col-md-3">
+              <input type="email" name="_replyto" placeholder="Tu email" required>
             </div>
             <div class="col-sm-12 col-md-3">
               <input type="submit" class="btn btn-secondary participacion-ciudadana" value="Enviar">

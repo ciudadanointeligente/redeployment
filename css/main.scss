@@ -199,14 +199,21 @@ h4 {
   & a {
     color: $cyan;
   }
+  & select {
+    height: 3.5rem;
+    border: none;
+    padding: 1rem;
+    width: 100%;
+    margin-bottom: 5px;
+  }
+  & input {
+    padding: 1rem;
+    width: 100%;
+    margin-bottom: 5px;
+  }
 }
 
 
-#contact input {
-  padding: 1rem;
-  width: 100%;
-  margin-bottom: 5px;
-}
 
 // Herramientas
 
