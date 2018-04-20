@@ -26,7 +26,11 @@ layout: default
           <a href="mailto:?subject={{page.share_message}}&amp;body={{ site.url}}{{ page.url }}" class="btn btn-secondary" title="Compartir por Email">
             Compartir por email <i class="fa fa-paper-plane" aria-hidden="true"></i>
           </a>
-          <a class="d-md-none btn btn-secondary" href="whatsapp://send?text={{page.share_message}} {{ site.url}}{{ page.url }}" data-action="share/whatsapp/share">Compartir por whatsapp <i class="fa fa-whatsapp"></i></a>
+          <a href="#" onclick="window.open('https://twitter.com/intent/tweet?text={{ page.share_message }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}', 'twitter-share-dialog', 'width=626,height=436');" class="btn btn-secondary"><i class="fa fa-twitter fa-2x"></i> Twitter</a>
+          <a onclick="window.open('https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}', 'facebook-share-dialog', 'width=626,height=436');" class="btn btn-secondary">
+            <i class="fab fa-facebook-f"></i></i> Facebook
+          </a>
+          <a class="d-md-none btn btn-secondary" href="whatsapp://send?text={{page.share_message}} {{ site.url}}{{ page.url }}" data-action="share/whatsapp/share">Compartir por whatsapp <i class="fab fa-twitter"></i></a>
         </div>
         <div class="row">
           <div class="col-sm-12 col-md-4">

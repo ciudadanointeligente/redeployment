@@ -26,15 +26,7 @@
 
     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
       <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarcategorias" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Qué ofrecemos <span class="caret"></span></a>
-          <div class="dropdown-menu" aria-labelledby="navbarcategorias">
-            {% for category in site.category %}
-              <a class="dropdown-item" href="{{ category.permalink }}">{{ category.tag }}</a>
-            {% endfor %}
-            <a class="dropdown-item" href="{{ site.baseurl }}herramientas">Todas</a>
-          </div>
-        </li>
+        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}herramientas">Qué ofrecemos</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}como-implementarlas">Cómo adquirirlas</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}sobre-nosotrxs">Quiénes somos</a></li>
         <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}faq">Preguntas Frecuentes</a></li>
