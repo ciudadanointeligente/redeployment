@@ -30,7 +30,7 @@ team_members:
 ---
 ¿Cuánto cumplen las autoridades? ¿Qué puede hacer la ciudadanía para que lo hagan? Para construir una democracia plena, la ciudadanía requiere de herramientas para fiscalizar la labor de gobernantes y autoridades, así como el cumplimiento de sus compromisos. ¿Cómo, sino, podremos premiar a quienes cumplieron y hacer responsables a quienes no?
 
-Rendición de cuentas es una metodología y plataforma que analiza las promesas de gobiernos y autoridades, midiendo el nivel de cumplimiento a lo largo de su mandato. Entrega información clara y comprensible que permite a la ciudadanía ejercer control social sobre las autoridades.
+**Rendición de cuentas es una metodología y plataforma que analiza las promesas de gobiernos y autoridades, midiendo el nivel de cumplimiento a lo largo de su mandato. Entrega información clara y comprensible que permite a la ciudadanía ejercer control social sobre las autoridades.**
 
 La metodología permite identificar aquellas promesas susceptibles de ser medidas, las áreas temáticas a las que corresponden y el nivel de avance con que cuentan. Esta plataforma facilita la visualización de manera amigable y cercana los avances en el cumplimiento de las promesas. Además, puede ser utilizada para medir el cumplimiento o avance de distintos tipos de iniciativas en diversas áreas temáticas, para distinto tipo de autoridades.
 
@@ -42,9 +42,9 @@ La metodología permite identificar aquellas promesas susceptibles de ser medida
 5. Determinación total del avance: Se ponderan valores de cada compromiso para representar el cumplimiento total.
 
 ## Han utilizado esta herramienta
-- UYCheck (Uruguay): [deldichoalhecho.com.uy](http://deldichoalhecho.com.uy){:target="_blank"}
-- Fiscalización del cumplimiento de los primeros 100 días de gobierno de la prefectura de Río de Janeiro, Brasil: [ditoefeito.cidadaniainteligente.org](https://ditoefeito.cidadaniainteligente.org/){:target="_blank"}
-- Seguimiento del cumplimiento de los programas y discursos de los dos últimos gobiernos de Chile [deldichoalhecho.cl](https://deldichoalhecho.cl/){:target="_blank"}
+- UYCheck **Uruguay**: [deldichoalhecho.com.uy](http://deldichoalhecho.com.uy){:target="_blank"}
+- Fiscalización del cumplimiento de los primeros 100 días de gobierno de la prefectura de Río de Janeiro, **Brasil**: [ditoefeito.cidadaniainteligente.org](https://ditoefeito.cidadaniainteligente.org/){:target="_blank"}
+- Seguimiento del cumplimiento de los programas y discursos de los dos últimos gobiernos de **Chile** [deldichoalhecho.cl](https://deldichoalhecho.cl/){:target="_blank"}
 
 ## Beneficios
 

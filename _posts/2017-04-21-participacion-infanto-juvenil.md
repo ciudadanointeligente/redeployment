@@ -30,10 +30,10 @@ team_members:
 ---
 ¿Crees que es importante que los niños, niñas y adolescentes (NNA) tengan experiencias participativas amigables para su formación como ciudadanas y ciudadanos? ¿Buscas desarrollar valores y habilidades ciudadanas desde temprana edad? ¿Crees que es posible hacer del ejercicio cívico algo más atractivo para quienes serán el futuro de nuestras sociedades?
 
-La metodología de formación ciudadana para NNA promueve la participación con instancias de diálogo y trabajo colaborativo, para que NNA identifiquen diversas problemáticas de su interés, ya sean nacionales o locales, e ideen propuestas para resolverlas. Estas propuestas serán visibilizadas en una plataforma digital, con la posibilidad de reunir apoyos ciudadanos y ser acogidas e implementadas por la autoridad pertinente (centro de estudiantes, dirección del establecimiento educacional, gobierno local, presidencia, etc.).
+**Participación Infanto Juvenil promueve instancias de diálogo y trabajo colaborativo, para que NNA identifiquen diversas problemáticas de su interés, ya sean nacionales o locales, e ideen propuestas para resolverlas. Estas propuestas serán visibilizadas en una plataforma digital, con la posibilidad de reunir apoyos ciudadanos y ser acogidas e implementadas por la autoridad pertinente (centro de estudiantes, dirección del establecimiento educacional, gobierno local, presidencia, etc.).**
 
 ## Experiencia destacada
-- 88 colegios de Chile utilizaron el proyecto durante las elecciones Presidenciales y Parlamentarias en el país (2017). Participaron 836 NNA que crearon 211 propuestas, logrando 34 compromisos de candidatas y candidatos de los comicios electorales.
+- En Chile 88 colegios utilizaron el proyecto durante las elecciones Presidenciales y Parlamentarias (2017). Participaron 836 NNA que crearon 211 propuestas, logrando 34 compromisos de candidatas y candidatos de los comicios electorales del país.
 
 ## Beneficios
 1. Descubrimiento y la valorización de participación por NNA.
