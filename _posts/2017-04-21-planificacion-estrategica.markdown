@@ -28,7 +28,7 @@ team_members:
 ---
 ¿Tienes objetivos de acción claros pero no logras cumplirlos? ¿No logras conectar a tu organización con actores sociales clave? ¿Tu presupuesto organizacional es escaso y necesitas optimizarlo de la mejor manera? ¿Tus flujos de comunicación interna y externa no trabajan en función de tu meta institucional?
 
-Planificación Estratégica comparte criterios para la caracterización de un problema público y elementos para la generación y priorización de objetivos que contribuyan a su solución. Incluye también herramientas de mapeo de actores, así como de seguimiento y evaluación de procesos.
+**Planificación Estratégica comparte criterios para la caracterización de un problema público y elementos para la generación y priorización de objetivos que contribuyan a su solución. Incluye también herramientas de mapeo de agentes clave, así como de seguimiento y evaluación de procesos.**
 
 Esta herramienta está dirigida a organizaciones de la sociedad civil, instituciones públicas y organismos internacionales.
 
@@ -38,8 +38,8 @@ Esta herramienta está dirigida a organizaciones de la sociedad civil, instituci
 3. En caso de que la organización lo solicite, FCI puede brindar accesos y asesoría para hacer uso de la plataforma digital Planificación Estratégica. Esto permitirá sistematizar y dar seguimiento a la implementación de la estrategia de incidencia planificada.
 
 ## Experiencias destacadas
-- Trabajamos con la Fundación Techo para Chile para la creación del Área de Incidencia. En esa oportunidad la ONG utilizó nuestra metodología a nivel nacional para hacer análisis y planes regionales de incidencia. (Septiembre 2015).
-- Hemos desarrollado formaciones en Chile, Indonesia, México, Nicaragua y Puerto Rico durantes los años 2016 y 2017.
+- Trabajamos con la **Fundación Techo para Chile** para la creación del Área de Incidencia. En esa oportunidad la ONG utilizó nuestra metodología a nivel nacional para hacer análisis y planes regionales de incidencia. (Septiembre 2015).
+- Hemos desarrollado formaciones en **Chile, Indonesia, México, Nicaragua y Puerto Rico** durantes los años 2016 y 2017.
 
 ## Testimonios
 
