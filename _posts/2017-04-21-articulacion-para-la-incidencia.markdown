@@ -31,7 +31,7 @@ team_members:
 ---
 ¿Buscas generar iniciativas sociales para solucionar un problema público? ¿Crees que la colaboración entre agentes es un motor de cambio?
 
-La Articulación para la Incidencia es una herramienta de planificación y seguimiento. Permite reunir a diversos agentes clave para crear colectivamente una estrategia de incidencia a corto plazo, abordando un problema público específico.
+**La Articulación para la Incidencia es una herramienta de planificación y seguimiento. Permite reunir a diversos agentes clave para crear colectivamente una estrategia de incidencia a corto plazo, abordando un problema público específico.**
 
 Los contenidos del taller se enfocan en: caracterización de un problema, definición colaborativa de un sueño, definición de objetivos, análisis de contexto y prospección, elaboración de un plan de trabajo (planificación del proyecto cívico) y la generación de una estrategia de seguimiento.
 
@@ -47,4 +47,4 @@ Los contenidos del taller se enfocan en: caracterización de un problema, defini
 - Hemos facilitado esta herramienta (LabCívicos) en 12 países de América Latina, y hoy llevamos esta metodología a más contextos y a diferentes áreas. Trabajamos en violencia de género en Honduras, gestión de aguas en Bolivia, violencia armada en juventudes de Colombia, y problema de los desechos en Ecuador y Colombia.
 
 
-Ejemplos de su uso: [labcivico.org/casos](https://labcivico.org/casos.html){:target="_blank"}
+**Ejemplos de su uso:** [labcivico.org/casos](https://labcivico.org/casos.html){:target="_blank"}
