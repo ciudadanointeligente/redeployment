@@ -31,7 +31,7 @@ team_members:
 ---
 ¿Quieres generar cambios sociales potenciando a líderes de tu comunidad? ¿Crees que líderes latinoamericanos necesitan más herramientas para apoyar a sus comunidades? ¿Sientes que trabajar con otras personas se logran resultados más inclusivos y representativos?
 
-La Escuela de Incidencia es una instancia de formación que busca fomentar el liderazgo colaborativo y participativo de nuevas generaciones  para lograr cambios sociales a través de la incidencia en políticas públicas.
+**La Escuela de Incidencia es una instancia de formación que busca fomentar el liderazgo colaborativo y participativo de nuevas generaciones  para lograr cambios sociales a través de la incidencia en políticas públicas.**
 
 Los contenidos que se abordan dentro del proyecto corresponden a incidencia social y política, estrategias de facilitación de procesos y metodologías de trabajo colaborativo.
 
@@ -44,7 +44,7 @@ Los contenidos que se abordan dentro del proyecto corresponden a incidencia soci
 5. Quienes participan de la Escuela reportan avances y comparten aprendizajes para mejorar futuros procesos de incidencia.
 
 ## Experiencias destacadas
-- La primera versión, implementada con el apoyo del National Endowment for Democracy (NED), se desarrolló durante el año 2017 en Bolivia, Colombia, Ecuador y Perú
-- La versión 2018, implementada con el apoyo del National Endowment for Democracy  NED y el International Development Research Center IDRC, se realiza en Brasil, Chile, Colombia, Ecuador, Guatemala y México
+- La primera versión, implementada con el apoyo del National Endowment for Democracy (NED), se desarrolló durante el año 2017 en **Bolivia, Colombia, Ecuador y Perú.**
+- La versión 2018, implementada con el apoyo del National Endowment for Democracy  NED y el International Development Research Center IDRC, se realiza en **Brasil, Chile, Colombia, Ecuador, Guatemala y México.**
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/pjhujdZiGfg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
