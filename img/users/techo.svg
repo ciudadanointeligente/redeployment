@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="132px" height="49px" viewBox="0 0 132 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="222px" height="102px" viewBox="0 0 222 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
-    <title>techo</title>
+    <title>Artboard</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="techo" fill="#8E9BA6">
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="techo" transform="translate(45.000000, 27.000000)" fill="#8E9BA6">
             <path d="M13.4794893,41.7921485 L13.4794893,45.8033564 C13.4794893,47.690099 12.4074155,48.8078812 10.5847439,48.8078812 C8.75038229,48.8078812 7.67830849,47.690099 7.67830849,45.8033564 L7.67830849,41.7921485 L8.5438583,41.7921485 L8.5438583,45.8455644 C8.5438583,47.1792376 9.25256679,48.0030198 10.5847439,48.0030198 C11.9154598,48.0030198 12.611017,47.1792376 12.611017,45.8455644 L12.611017,41.7921485 L13.4794893,41.7921485 Z" id="Fill-1"></path>
             <polygon id="Fill-3" points="20.8761166 41.7921485 20.8761166 48.6623366 20.0675557 48.6623366 16.1431129 43.5013267 16.0081904 43.2810693 16.0262125 43.5653663 16.0262125 48.6623366 15.1708915 48.6623366 15.1708915 41.7921485 15.9692236 41.7921485 19.9009727 46.9245347 20.0285889 47.151099 20.011541 46.8643762 20.011541 41.7921485"></polygon>
             <polygon id="Fill-5" points="31.3141993 41.7921485 31.3141993 42.5863366 29.0127232 42.5863366 29.0127232 48.6623366 28.1583764 48.6623366 28.1583764 42.5863366 25.8763838 42.5863366 25.8763838 41.7921485"></polygon>
