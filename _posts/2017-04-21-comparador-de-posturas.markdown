@@ -26,7 +26,7 @@ team_members:
 ---
 Los debates y polémicas sobre políticas públicas que afectan a la ciudadanía pueden ser complejos y técnicos. ¿Cómo traducir la información en un formato amigable y entendible? Esta herramienta permite contrastar de forma rápida y clara las posiciones de dos grupos respecto de un asunto o un conjunto de temas, indicando qué tan distintas o similares son.
 
-Comparador de Posturas muestra de forma simple y entretenida la visión de dos entidades sobre un mismo tema. Permite visualizar la información de tal forma que la usuaria o usuario comprenda inmediatamente el nivel de acuerdo/desacuerdo existente.
+**Comparador de Posturas muestra de forma simple y entretenida la visión de dos entidades sobre un mismo tema. Permite visualizar la información de tal forma que la usuaria o usuario comprenda inmediatamente el nivel de acuerdo/desacuerdo existente.**
 
 ## Beneficios
 1. Transparenta el debate.
@@ -34,5 +34,5 @@ Comparador de Posturas muestra de forma simple y entretenida la visión de dos e
 3. Facilita el entendimiento de información compleja a través de visualizaciones atractivas y amigables.
 
 ## Experiencias Destacadas
-- Revolución Pingüina: Las manifestaciones estudiantiles en Chile durante el 2012 levantaron una discusión profunda y compleja. Esta herramienta permitió seguir el debate sobre la reforma educacional en el país, comparando la postura del gobierno con diferentes actores sociales (Educación 2020, FECH, UDI, Horizontal, Evópoli, Instituto Libertad y Amplitud).
-- Sistema Binominal en Chile: Esta herramienta permitió contrastar las diferentes posturas respecto de la reforma al sistema binominal en el país.
+**- Revolución Pingüina:** Las manifestaciones estudiantiles en Chile durante el 2012 levantaron una discusión profunda y compleja. Esta herramienta permitió seguir el debate sobre la reforma educacional en el país, comparando la postura del gobierno con diferentes actores sociales (Educación 2020, FECH, UDI, Horizontal, Evópoli, Instituto Libertad y Amplitud).
+**- Sistema Binominal en Chile:** Esta herramienta permitió contrastar las diferentes posturas respecto de la reforma al sistema binominal en el país.
