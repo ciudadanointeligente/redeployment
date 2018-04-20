@@ -11,9 +11,9 @@ single_image:
   - img: "/img/papu02.png"
     caption:
 ---
-Plataforma que facilita la visualización, comprensión y comparación amigable y cercana de datos de transparencia de entidades públicas o privadas. Permite a la ciudadanía, organizaciones y medios de comunicación entender información compleja de forma simple y atractiva.
+**Organizaciones Transparentes facilita la visualización, comprensión y comparación amigable y cercana de datos de transparencia de entidades públicas o privadas. Permite a la ciudadanía, organizaciones y medios de comunicación entender información compleja de forma simple y atractiva.**
 
-Ejemplos de su uso:  Partidos políticos chilenos en [partidospublicos.cl](https://partidospublicos.cl/)
+**Ejemplos de su uso:**  Partidos políticos chilenos en [partidospublicos.cl](https://partidospublicos.cl/)
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/CZ-Y-1rMwBU?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
