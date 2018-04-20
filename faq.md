@@ -140,7 +140,7 @@ title: Preguntas frecuentes
     </div>
     <div id="Ten" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
-        El costo asociado a nuestras herramientas no tiene fines de lucro y el dinero nunca es retirado de la organización y es 100% utilizado para su continuar con nuestro funcionamiento. Esto nos permite sostener a la Fundación en el largo plazo y continuar creando nuevos proyectos y herramientas que apoyen en el fortalecimiento de las democracias en Latinoamérica.
+        El costo asociado a nuestras herramientas no tiene fines de lucro. Por tanto, el dinero nunca es retirado de nuestra organización y es 100% utilizado para continuar con nuestro funcionamiento. Esto nos permite sostener a la Fundación en el largo plazo y continuar creando nuevos proyectos y herramientas que apoyen en el fortalecimiento de las democracias en Latinoamérica.
       </div>
     </div>
   </div>
