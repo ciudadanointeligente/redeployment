@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¿Cómo implementarlas?
+title: ¿Cómo adquirir nuestras herramientas?
 ---
 
 En Ciudadano Inteligente queremos que más personas, organizaciones, instituciones y medios de comunicación cuenten con nuestras herramientas para avanzar, informar y colaborar eficazmente.
