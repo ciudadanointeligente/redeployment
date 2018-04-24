@@ -1,3 +1,8 @@
+<script type="text/javascript">
+  $(function () {
+  $('[data-toggle="tooltip"]').tooltip()
+  })
+</script>
 <section id="contact">
   <div class="page-section bg-magenta">
     <div class="container">
@@ -23,14 +28,17 @@
             <div class="col-sm-12 col-md-3">
               <select name="org-size">
                 <option value="" disabled selected>Tamaño de tu organización</option>
-                <option value="chica">1 a 4 trabajadorxs</option>
-                <option value="media">5 a 20 trabajadorxs</option>
-                <option value="grande">21 a 60 trabajadorxs</option>
-                <option value="enorme">60 o más trabajadorxs</option>
+                <option value="1 a 4">1 a 4 trabajadorxs</option>
+                <option value="5 a 20">5 a 20 trabajadorxs</option>
+                <option value="21 a 60">21 a 60 trabajadorxs</option>
+                <option value="60 o mas">61 o más trabajadorxs</option>
               </select>
             </div>
             <div class="col-sm-12 col-md-3">
-              <input name="funding" placeholder="Capacidad de financiamiento">
+              <a data-toggle="tooltip" data-placement="top" title="¿Tienes fondos para financiar esta herramienta o planeas conseguirlos?">
+              <input name="funding" placeholder="Fuentes de financiamiento">
+                <!-- <i class="fas fa-info-circle"></i> -->
+              </a>
             </div>
           </div>
           <div class="row">
