@@ -56,7 +56,7 @@ title: Preguntas frecuentes
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
-        No dudes en contarnos sobre tu proyecto para ver si existen alternativas de colaboración. Si no podemos ayudarte, al menos podremos guiarte sobre cómo podrías encontrar apoyo para tu proyecto.
+        Si cuentas con la capacidad institucional y el recurso humano no dudes en contarnos sobre tu proyecto para apoyarte en la creación de una propuesta para que busques financiamiento.
       </div>
     </div>
   </div>
@@ -84,7 +84,7 @@ title: Preguntas frecuentes
     </div>
     <div id="Six" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
-        Los softwares de código abierto son aquellos que se desarrollan y distribuyen bajo una licencia que permite su uso, modificación y redistribución. De esta forma están disponibles a cualquier usuario de forma gratuita.
+        Los softwares de código abierto son aquellos que se desarrollan y distribuyen bajo una licencia que permite su uso, modificación y redistribución. De esta forma están disponibles a cualquier usuario de forma gratuita. Todas nuestras plataformas son de código abierto.
       </div>
     </div>
   </div>
