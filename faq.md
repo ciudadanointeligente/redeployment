@@ -7,14 +7,14 @@ title: Preguntas frecuentes
     <div class="card-header" id="headingOne">
       <h5 class="mb-0">
         <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          ¿Qué servicios ofrece Fundación Ciudadano Inteligente?
+          ¿Qué servicios ofrece Fundación Ciudadanía Inteligente?
         </button>
       </h5>
     </div>
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
       <div class="card-body">
-        Ciudadano Inteligente ofrece herramientas para fortalecer a organizaciones de la sociedad civil, activistas, colectivos y a la ciudadanía en general. También  ofrecemos herramientas para que gobiernos centrales, locales y empresas puedan vincularse mejor con la ciudadanía. Además, ponemos nuestras herramientas a disposición de organismos internacionales que contribuyen a fortalecer la sociedad civil.
+        Ciudadanía Inteligente ofrece herramientas para fortalecer a organizaciones de la sociedad civil, activistas, colectivos y a la ciudadanía en general. También  ofrecemos herramientas para que gobiernos centrales, locales y empresas puedan vincularse mejor con la ciudadanía. Además, ponemos nuestras herramientas a disposición de organismos internacionales que contribuyen a fortalecer la sociedad civil.
       </div>
     </div>
   </div>
@@ -22,7 +22,7 @@ title: Preguntas frecuentes
     <div class="card-header" id="headingTwo">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          ¿En qué países se pueden aplicar las herramientas de Ciudadano Inteligente?
+          ¿En qué países se pueden aplicar las herramientas de Ciudadanía Inteligente?
         </button>
       </h5>
     </div>
@@ -36,7 +36,7 @@ title: Preguntas frecuentes
     <div class="card-header" id="headingThree">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          ¿Qué costo tienen las herramientas de Ciudadano Inteligente?
+          ¿Qué costo tienen las herramientas de Ciudadanía Inteligente?
         </button>
       </h5>
     </div>
@@ -112,7 +112,7 @@ title: Preguntas frecuentes
     </div>
     <div id="collapseEight" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
       <div class="card-body">
-        Desde Ciudadano Inteligente creemos que para avanzar verdaderamente en transparencia, todos los agentes de la sociedad deben participar en este esfuerzo. Aquí encontrarás herramientas que están creadas para apoyar a todo tipo de instituciones en su transparencia, haciéndola amigable y visualmente atractiva.
+        Desde Ciudadanía Inteligente creemos que para avanzar verdaderamente en transparencia, todos los agentes de la sociedad deben participar en este esfuerzo. Aquí encontrarás herramientas que están creadas para apoyar a todo tipo de instituciones en su transparencia, haciéndola amigable y visualmente atractiva.
       </div>
     </div>
   </div>
