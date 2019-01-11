@@ -6,7 +6,7 @@ title: Quiénes somos
 
 
 
-En Ciudadano Inteligente queremos fortalecer las democracias de América Latina. Para esto buscamos mejorar las reglas con que se distribuye el poder, e impulsamos a la ciudadanía y la sociedad civil organizada a incidir más y mejor en la toma de decisiones políticas, aprovechando el uso innovador de las tecnologías. 
+En Ciudadanía Inteligente queremos fortalecer las democracias de América Latina. Para esto buscamos mejorar las reglas con que se distribuye el poder, e impulsamos a la ciudadanía y la sociedad civil organizada a incidir más y mejor en la toma de decisiones políticas, aprovechando el uso innovador de las tecnologías. 
 
 Tenemos presencia activa en Latinoamérica, y nuestras herramientas han sido utilizadas más de 70 veces en diferentes países de la región. 
 
@@ -14,7 +14,7 @@ Hemos ganado los premios Prix Ars Electronica y el Omidyar Network Award. Desde 
 
 ## ¿De dónde venimos?
 
-La Fundación Ciudadano Inteligente nació en el año 2009 con tres inquietudes importantes: hacer más accesible el debate público, reducir la desigualdad en América Latina y aprovechar la tecnología para facilitar más y mejores intercambios políticos.
+La Fundación Ciudadanía Inteligente nació en el año 2009 con tres inquietudes importantes: hacer más accesible el debate público, reducir la desigualdad en América Latina y aprovechar la tecnología para facilitar más y mejores intercambios políticos.
 
 Nuestros desafíos comenzaron con la implementación de leyes de transparencia y la disponibilización de información para la promoción del voto informado en procesos electorales. En esos tiempos, cada vez se hacía más evidente el potencial de las nuevas tecnologías como herramienta para la interacción con la ciudadanía. 
 
