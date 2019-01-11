@@ -7,7 +7,7 @@
 
 # Site settings
 title: Herramientas de Ciudadano Inteligente
-email: herramientas@ciudadanointeligente.org
+email: herramientas@ciudadaniai.org
 description: "Con nuestras herramientas puedes crear mejores democracias y mejores sociedades"
 baseurl: "https://herramientas.ciudadanointeligente.org/" # the subpath of your site, e.g. /blog
 url: "https://herramientas.ciudadanointeligente.org/" # the base hostname & protocol for your site
