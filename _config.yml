@@ -9,8 +9,8 @@
 title: Herramientas de Ciudadano Inteligente
 email: herramientas@ciudadaniai.org
 description: "Con nuestras herramientas puedes crear mejores democracias y mejores sociedades"
-baseurl: "https://herramientas.ciudadanointeligente.org/" # the subpath of your site, e.g. /blog
-url: "https://herramientas.ciudadanointeligente.org/" # the base hostname & protocol for your site
+baseurl: "https://herramientas.ciudadaniai.org/" # the subpath of your site, e.g. /blog
+url: "https://herramientas.ciudadaniai.org/" # the base hostname & protocol for your site
 twitter_username: ciudadanoi
 github_username:  ciudadanointeligente
 analytics: UA-76464035-1
