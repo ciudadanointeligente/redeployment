@@ -38,22 +38,6 @@ layout: default
             <p class="mb-60">
               <a href="{{ page.link }}" target="_blank"><i class="fas fa-mouse-pointer"></i> {{ page.link }}</a>
             </p>
-            <h2 class="mb-30">El equipo</h2>
-            <ul class="list-unstyled mb-60">
-              {% for team in page.team_members %}
-                <li>
-                  <div class="row no-gutters mb-30">
-                    <div class="col-3">
-                      <img src="{{ site.baseurl }}{{ team.img }}" class="img-responsive"/>
-                    </div>
-                    <div class="col-9">
-                      <h5 class="mb-0">{{ team.name }}</h5>
-                      {{ team.rol }}
-                    </div>
-                  </div>
-                </li>
-              {% endfor %}
-            </ul>
             <h2>Contáctanos</h2>
             <p>Escríbenos a <a href="mailto:herramientas@ciudadaniai.org" target="_blank">herramientas@ciudadaniai.org</a></p>
           </div>
